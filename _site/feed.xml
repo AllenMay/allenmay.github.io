@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Allen May&#39;s GitHub Page</title>
+    <description>Struggling between breadth and depth of knowledge, this site is devoted to  exploring a balance of both deep and wide topics of web development.
+</description>
+    <link>http://allenmay.github.io/</link>
+    <atom:link href="http://allenmay.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 07 Sep 2014 19:34:43 -0400</pubDate>
+    <lastBuildDate>Sun, 07 Sep 2014 19:34:43 -0400</lastBuildDate>
+    <generator>Jekyll v2.3.0</generator>
+    
+      <item>
+        <title>Beginings Can Be Soo Hard!</title>
+        <description>&lt;p&gt;I am building my GitHub pages with Jekyll and exploring the differences between the GitHub site Layout templates.
+I’m also exploring the Jekyll themes and trying to incorporate what I like into the right blend of design and functionality.&lt;/p&gt;
+
+&lt;p&gt;Ha! I’ll never get this site up…&lt;/p&gt;
+
+&lt;p&gt;I’m finishing this edit and committing to GitHub so I can salvage some of my day.&lt;/p&gt;
+
+&lt;p&gt;Tomorrow morning becomes for more work on this site….&lt;/p&gt;
+
+&lt;p&gt;Until then… [commit]&lt;/p&gt;
+</description>
+        <pubDate>Sun, 07 Sep 2014 10:11:29 -0400</pubDate>
+        <link>http://allenmay.github.io/jekyll/update/2014/09/07/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://allenmay.github.io/jekyll/update/2014/09/07/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
