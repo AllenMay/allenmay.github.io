@@ -1,0 +1,365 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/allen/DevProjects/allenmay.github2.io/_config.yml",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/allen/DevProjects/allenmay.github2.io/about.md",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "---\nlayout: post\ntitle:  \"Beginings Can Be Soo Hard!\"\ndate:   2014-09-07 14:11:29\ncategories: jekyll update\n---\nI am building my GitHub pages with Jekyll and exploring the differences between the GitHub site Layout templates.\nI'm also exploring the Jekyll themes and trying to incorporate what I like into the right blend of design and functionality.\n\nHa! I'll never get this site up...\n\nI'm finishing this edit and committing to GitHub so I can salvage some of my day.\n\nTomorrow morning becomes for more work on this site....\n\nUntil then... [commit]",
+			"file": "/home/allen/DevProjects/allenmay.github2.io/_posts/2014-09-07-welcome-to-jekyll.markdown",
+			"file_size": 550,
+			"file_write_time": 1410132883000000,
+			"settings":
+			{
+				"buffer_size": 550,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_posts/2014-09-08-paperball-3-jekyll-defaul-1",
+			"settings":
+			{
+				"buffer_size": 550,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 201.0,
+		"selected_items":
+		[
+			[
+				"xdeb",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"add",
+				"Package Control: Add Repository"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 359.0
+	},
+	"console":
+	{
+		"height": 111.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/allen/DevProjects/minimal-mistakes-master/_config.yml",
+		"/home/allen/DevProjects/freelancer-theme-master/index.html",
+		"/home/allen/DevProjects/freelancer-theme-master/_layouts/default.html",
+		"/home/allen/DevProjects/freelancer-theme-master/_includes/header.html",
+		"/home/allen/DevProjects/freelancer-theme-master/_includes/about.html",
+		"/home/allen/DevProjects/freelancer-theme-master/_posts/2014-09-07-welcome-to-jekyll.markdown",
+		"/home/allen/DevProjects/freelancer-theme-master/_includes/modals.html",
+		"/home/allen/DevProjects/freelancer-theme-master/_includes/portfolio_grid.html",
+		"/home/allen/DevProjects/freelancer-theme-master/_config.yml",
+		"/home/allen/DevProjects/freelancer-theme-master/_site/index.html",
+		"/home/allen/DevProjects/allenmay.github.io/_config.yml",
+		"/home/allen/DevProjects/allenmay.github.io/index.html",
+		"/home/allen/DevProjects/freelancer-theme-master/feed.xml",
+		"/home/allen/DevProjects/allenmay.github.io/feed.xml",
+		"/home/allen/DevProjects/Compare Jekyll and Merlot.txt",
+		"/home/allen/DevProjects/allenmay.github.io/index.MERLOT.html",
+		"/home/allen/DevProjects/allenmay.github.io/_layouts/default.html",
+		"/home/allen/DevProjects/allenmay.github.io/_includes/head.html",
+		"/home/allen/DevProjects/allenmay.github.io/_includes/header.html",
+		"/home/allen/DevProjects/allenmay.github.io/stylesheets/screen.css",
+		"/home/allen/DevProjects/allenmay.github.io/allenmay.sublime-project",
+		"/home/allen/DevProjects/allenmay.github.io/about.md",
+		"/var/www/html/Wordpress.sublime-project",
+		"/var/www/html/wordpress/index.php",
+		"/var/www/html/wordpress/wp-blog-header.php",
+		"/var/www/html/wordpress/wp-load.php",
+		"/var/www/html/wordpress/wp-config.php",
+		"/var/www/html/wordpress/wp-settings.php",
+		"/var/www/html/wordpress/wp-includes/load.php",
+		"/home/allen/Desktop/LinuxNotes.txt",
+		"/var/www/html/index.html",
+		"/home/allen/wordpress/wp-content/themes/twentyfourteen/index.php",
+		"/home/allen/wordpress/index.php",
+		"/etc/php5/apache2/php.ini",
+		"/home/allen/wordpress/wp-content/themes/twentythirteen/author-bio.php",
+		"/home/allen/wordpress/wp-content/themes/twentythirteen/index.php",
+		"/etc/apache2/apache2.conf",
+		"/home/allen/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/allen/.config/sublime-text-2/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/allen/DevProjects/allenmay.github.io"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"portfolio",
+			"home",
+			"index",
+			"';\n",
+			"lp_deepCopy",
+			"modernizr.js",
+			"addEventListener",
+			"content-script",
+			"page.title",
+			"site.title",
+			"apache",
+			"module"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/allen/DevProjects/allenmay.github2.io/_config.yml",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/allen/DevProjects/allenmay.github2.io/about.md",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/allen/DevProjects/allenmay.github2.io/_posts/2014-09-07-welcome-to-jekyll.markdown",
+					"settings":
+					{
+						"buffer_size": 550,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								107,
+								107
+							]
+						],
+						"settings":
+						{
+							"spell_check": true,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_posts/2014-09-08-paperball-3-jekyll-defaul-1",
+					"settings":
+					{
+						"buffer_size": 550,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/allen/DevProjects/allenmay.github.io/_includes/allenmay.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 287.0,
+	"status_bar_visible": true
+}

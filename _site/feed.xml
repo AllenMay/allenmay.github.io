@@ -6,9 +6,39 @@
 </description>
     <link>http://allenmay.github.io/</link>
     <atom:link href="http://allenmay.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 07 Sep 2014 19:34:43 -0400</pubDate>
-    <lastBuildDate>Sun, 07 Sep 2014 19:34:43 -0400</lastBuildDate>
+    <pubDate>Mon, 08 Sep 2014 04:51:38 -0400</pubDate>
+    <lastBuildDate>Mon, 08 Sep 2014 04:51:38 -0400</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
+    
+      <item>
+        <title>Score: Paper Ball 3 - Jekyll Default 1</title>
+        <description>&lt;h2 id=&quot;mission-create-a-central-profile-blog-using-github-pages&quot;&gt;&lt;strong&gt;MISSION:&lt;/strong&gt; Create a Central Profile Blog Using GitHub Pages&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/paperballOPTIMIZED.svg&quot; alt=&quot;Paperball&quot; class=&quot;post-icon&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I had a great idea - use GitHub Pages as my central blog for projects and interest. Sounds
+simple enough, right? Well it is simple if you keep focus on the project priority, start with the basics and explore your options later.&lt;/p&gt;
+
+&lt;p&gt;I found myself exploring Jekyll, Jekyll themes and the GitHub Layout themes. I wanted to have the best parts of what each had to offer and found myself drifting away from the mission.
+I had to “paper ball” my efforts 3 times before accepting the fact that I had gone off target and needed to get back to the original goal.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;List of resources used for this project:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&quot;&gt;Markdown Sheat&lt;/a&gt; &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Sun, 07 Sep 2014 22:41:29 -0400</pubDate>
+        <link>http://allenmay.github.io/jekyll/update/2014/09/07/paperball-3-jekyll-defaul-1.html</link>
+        <guid isPermaLink="true">http://allenmay.github.io/jekyll/update/2014/09/07/paperball-3-jekyll-defaul-1.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>Beginings Can Be Soo Hard!</title>
