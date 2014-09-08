@@ -6,8 +6,8 @@
 </description>
     <link>http://allenmay.github.io/</link>
     <atom:link href="http://allenmay.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 08 Sep 2014 04:51:38 -0400</pubDate>
-    <lastBuildDate>Mon, 08 Sep 2014 04:51:38 -0400</lastBuildDate>
+    <pubDate>Mon, 08 Sep 2014 06:07:45 -0400</pubDate>
+    <lastBuildDate>Mon, 08 Sep 2014 06:07:45 -0400</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
     
       <item>
@@ -16,16 +16,96 @@
 
 &lt;p&gt;&lt;img src=&quot;/images/paperballOPTIMIZED.svg&quot; alt=&quot;Paperball&quot; class=&quot;post-icon&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;I had a great idea - use GitHub Pages as my central blog for projects and interest. Sounds
-simple enough, right? Well it is simple if you keep focus on the project priority, start with the basics and explore your options later.&lt;/p&gt;
+&lt;p&gt;I had a great idea - use GitHub Pages as my central blog for projects and interest. Sounds simple enough, right? Well it is simple if you keep focus on the project priority, start with the basics and explore your options later.&lt;/p&gt;
 
-&lt;p&gt;I found myself exploring Jekyll, Jekyll themes and the GitHub Layout themes. I wanted to have the best parts of what each had to offer and found myself drifting away from the mission.
+&lt;p&gt;Well, after several hours I found myself exploring &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;, themes for Jekyll and the GitHub Layout themes. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;This is where I went off track:&lt;/strong&gt; I wanted to combine the best parts of all my options and found myself drifting away from the mission.
 I had to “paper ball” my efforts 3 times before accepting the fact that I had gone off target and needed to get back to the original goal.&lt;/p&gt;
+
+&lt;h2 id=&quot;paper-ball-1-github-page-layout&quot;&gt;&lt;strong&gt;Paper Ball 1:&lt;/strong&gt; GitHub Page Layout&lt;/h2&gt;
+&lt;p&gt;Creating a GitHub page is an easy implementation, just create a new repo with the name &lt;code&gt;[your GitHubID].github.io&lt;/code&gt;. &lt;/p&gt;
+
+&lt;p&gt;GitHub provides a nice theme tool to get your GitHub page up and running. Go to &lt;strong&gt;Settings -&amp;gt; GitHub Pages -&amp;gt; Automatic Page Generator&lt;/strong&gt; and you’ll find find several layouts to choose from. I had already installed Jekyll locally and found the default style of Jekyll pretty plain so the MERLOT layout look like a nice style for my project.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Conflict:&lt;/strong&gt; Looking at the MERLOT layout, I didn’t see the same structure as the default Jekyll layout. A lot of the default structure didn’t seem to be in the MERLOT layout.&lt;/p&gt;
+
+&lt;p&gt;So I decided to use the MERLOT style on the Jekyll default configuration. &lt;span class=&quot;parened&quot;&gt;(See “Comparison Between MERLOT and Jekyll Default” below)&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Well it turns out the MERLOT Layout is pretty structured and then I would have to redo the mobile style.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[Paperball!]&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;paper-ball-2-jekyll-theme-1&quot;&gt;&lt;strong&gt;Paper Ball 2:&lt;/strong&gt; Jekyll Theme 1&lt;/h2&gt;
+&lt;p&gt;Ah! There are themes for Jekyll! Nice… Let’s go shopping.&lt;/p&gt;
+
+&lt;p&gt;One of the first results from searching &lt;code&gt;jekyll themes&lt;/code&gt; is &lt;a href=&quot;http://jekyllthemes.org/&quot;&gt;Jekyll Themes&lt;/a&gt;…&lt;/p&gt;
+
+&lt;p&gt;I found a nice looking theme that focused on displaying a portfolio of work for an artist or developer.&lt;br /&gt;
+The portfolio grid was nice, and I would use it someday but for now I wanted to just hide it and use a basic blog approach. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Problem:&lt;/strong&gt; The portfolio grid is fed by the _posts listings. So, if I comment-out the portfolio grid, I have no _post ability. Well after a couple hours I realized that I would need to do too much re-engineering to make this work for my needs.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[Paperball!]&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;paper-ball-3-jekyll-theme-2&quot;&gt;&lt;strong&gt;Paper Ball 3:&lt;/strong&gt; Jekyll Theme 2&lt;/h2&gt;
+&lt;p&gt;Ok, back to &lt;a href=&quot;http://jekyllthemes.org/&quot;&gt;Jekyll Themes&lt;/a&gt; to see if I can find a tighter fit to a simple blog with some style.&lt;/p&gt;
+
+&lt;p&gt;Found one.. It’s a very nice them and focused on technical blogging. I dive in and start customizing it with my data and find; it’s going to take me another couple hours to get it to a baseline setup before beginning to add any content.&lt;/p&gt;
+
+&lt;p&gt;This would be a great solution for a client re-design but not for my immediate need.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[Paperball!]&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I was running out of project time.&lt;br /&gt;
+&lt;strong&gt;I needed to get my blog up and running!&lt;/strong&gt;&lt;br /&gt;
+I am now back to the basics - the Jekyll default theme.&lt;/p&gt;
+
+&lt;p&gt;You win for now &lt;strong&gt;Jekyll default style&lt;/strong&gt;, but I’m coming back and when I do…&lt;br /&gt;
+&lt;strong&gt;&lt;em&gt;I’m going to create my own theme!!&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Comparison Between MERLOT and Jekyll Default:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;index.MERLOT:&lt;/strong&gt; &lt;code&gt;&amp;lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;chrome=1&quot;&amp;gt;&lt;/code&gt;&lt;br /&gt;
+&lt;strong&gt;head.JEKYLL:&lt;/strong&gt;  &lt;code&gt;&amp;lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge&quot;&amp;gt;&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;index.MERLOT:&lt;/strong&gt; &lt;code&gt;&amp;lt;meta name=&quot;viewport&quot; content=&quot;width=640&quot;&amp;gt;&lt;/code&gt;&lt;br /&gt;
+&lt;strong&gt;head.JEKYLL:&lt;/strong&gt;  &lt;code&gt;&amp;lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot;&amp;gt;&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;index.MERLOT:* &lt;code&gt;n/a&lt;/code&gt;&lt;br /&gt;
+**head.JEKYLL:&lt;/strong&gt;  &lt;code&gt;&amp;lt;meta name=&quot;description&quot; content=&quot;Struggling between breadth and depth of knowledge, this site is devoted to  exploring a balance of both deep and wide topics of web development.
+&quot;&amp;gt;&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;index.MERLOT:&lt;/strong&gt; &lt;code&gt;&amp;lt;link rel=&quot;stylesheet&quot; href=&quot;stylesheets/core.css&quot; media=&quot;screen&quot;&amp;gt;&lt;/code&gt;&lt;br /&gt;
+                  &lt;code&gt;&amp;lt;link rel=&quot;stylesheet&quot; href=&quot;stylesheets/mobile.css&quot; media=&quot;handheld, only screen and (max-device-width:640px)&quot;&amp;gt;&lt;/code&gt;&lt;br /&gt;
+                  &lt;code&gt;&amp;lt;link rel=&quot;stylesheet&quot; href=&quot;stylesheets/pygment_trac.css&quot;&amp;gt;&lt;/code&gt;&lt;br /&gt;
+&lt;strong&gt;head.JEKYLL:&lt;/strong&gt;  `&lt;link rel=&quot;stylesheet&quot; href=&quot;/css/main.css&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;index.MERLOT:&lt;/strong&gt; &lt;code&gt;&amp;lt;script type=&quot;text/javascript&quot; src=&quot;javascripts/modernizr.js&quot;&amp;gt;&amp;lt;/script&amp;gt;&lt;/code&gt;&lt;br /&gt;
+                  &lt;code&gt;&amp;lt;script type=&quot;text/javascript&quot; src=&quot;https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js&quot;&amp;gt;&amp;lt;/script&amp;gt;&lt;/code&gt;&lt;br /&gt;
+                  &lt;code&gt;&amp;lt;script type=&quot;text/javascript&quot; src=&quot;javascripts/headsmart.min.js&quot;&amp;gt;&amp;lt;/script&amp;gt;&lt;/code&gt;&lt;br /&gt;
+                  &lt;code&gt;&amp;lt;script type=&quot;text/javascript&quot;&amp;gt;&lt;/code&gt;&lt;br /&gt;
+                    &lt;code&gt;$(document).ready(function () {&lt;/code&gt;&lt;br /&gt;
+                    &lt;code&gt;$(&#39;#main_content&#39;).headsmart()&lt;/code&gt;&lt;br /&gt;
+                    &lt;code&gt;})&lt;/code&gt;&lt;br /&gt;
+                  &lt;code&gt;&amp;lt;/script&amp;gt;&lt;/code&gt;&lt;br /&gt;
+&lt;strong&gt;head.JEKYLL:&lt;/strong&gt;  &lt;code&gt;n/a&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;index.MERLOT:&lt;/strong&gt; &lt;code&gt;n/a&lt;/code&gt;&lt;br /&gt;
+&lt;strong&gt;head.JEKYLL:&lt;/strong&gt;  &lt;code&gt;&amp;lt;link rel=&quot;canonical&quot; href=&quot;http://allenmay.github.io/jekyll/update/2014/09/07/paperball-3-jekyll-defaul-1.html&quot;&amp;gt;&lt;/code&gt;  &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;index.MERLOT:&lt;/strong&gt; &lt;code&gt;&amp;lt;title&amp;gt;Allen May&amp;amp;#39;s GitHub Page by AllenMay&amp;lt;/title&amp;gt;&lt;/code&gt;&lt;br /&gt;
+&lt;strong&gt;head.JEKYLL:&lt;/strong&gt;  &lt;code&gt;&amp;lt;title&amp;gt;Score: Paper Ball 3 - Jekyll Default 1&amp;lt;/title&amp;gt;&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;index.MERLOT:&lt;/strong&gt;    &lt;code&gt;&amp;lt;body&amp;gt;&lt;/code&gt;&lt;br /&gt;
+&lt;strong&gt;default.JEKYLL:&lt;/strong&gt;  &lt;code&gt;&amp;lt;body&amp;gt;&lt;/code&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;List of resources used for this project:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&quot;&gt;Markdown Sheat&lt;/a&gt; &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&quot;&gt;Markdown Cheatsheat&lt;/a&gt; &lt;/li&gt;
 &lt;/ul&gt;
 
 </description>

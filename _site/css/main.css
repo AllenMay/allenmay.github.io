@@ -1,6 +1,9 @@
 .post-icon {
   margin: 0 20%; }
 
+.parened {
+  color: grey; }
+
 /**
  * Reset some basic elements
  */
@@ -193,19 +196,6 @@ pre {
           width: 18px;
           height: 15px; }
           .site-nav .menu-icon > svg path {
-            fill: #424242; }
-      .site-nav .post-icon {
-        display: block;
-        float: right;
-        width: 36px;
-        height: 26px;
-        line-height: 0;
-        padding-top: 10px;
-        text-align: center; }
-        .site-nav .post-icon > svg {
-          width: 18px;
-          height: 15px; }
-          .site-nav .post-icon > svg path {
             fill: #424242; }
       .site-nav .trigger {
         clear: both;

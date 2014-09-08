@@ -66,16 +66,96 @@
 
 <p><img src="/images/paperballOPTIMIZED.svg" alt="Paperball" class="post-icon" /></p>
 
-<p>I had a great idea - use GitHub Pages as my central blog for projects and interest. Sounds
-simple enough, right? Well it is simple if you keep focus on the project priority, start with the basics and explore your options later.</p>
+<p>I had a great idea - use GitHub Pages as my central blog for projects and interest. Sounds simple enough, right? Well it is simple if you keep focus on the project priority, start with the basics and explore your options later.</p>
 
-<p>I found myself exploring Jekyll, Jekyll themes and the GitHub Layout themes. I wanted to have the best parts of what each had to offer and found myself drifting away from the mission.
+<p>Well, after several hours I found myself exploring <a href="http://jekyllrb.com/">Jekyll</a>, themes for Jekyll and the GitHub Layout themes. </p>
+
+<p><strong>This is where I went off track:</strong> I wanted to combine the best parts of all my options and found myself drifting away from the mission.
 I had to “paper ball” my efforts 3 times before accepting the fact that I had gone off target and needed to get back to the original goal.</p>
+
+<h2 id="paper-ball-1-github-page-layout"><strong>Paper Ball 1:</strong> GitHub Page Layout</h2>
+<p>Creating a GitHub page is an easy implementation, just create a new repo with the name <code>[your GitHubID].github.io</code>. </p>
+
+<p>GitHub provides a nice theme tool to get your GitHub page up and running. Go to <strong>Settings -&gt; GitHub Pages -&gt; Automatic Page Generator</strong> and you’ll find find several layouts to choose from. I had already installed Jekyll locally and found the default style of Jekyll pretty plain so the MERLOT layout look like a nice style for my project.</p>
+
+<p><strong>Conflict:</strong> Looking at the MERLOT layout, I didn’t see the same structure as the default Jekyll layout. A lot of the default structure didn’t seem to be in the MERLOT layout.</p>
+
+<p>So I decided to use the MERLOT style on the Jekyll default configuration. <span class="parened">(See “Comparison Between MERLOT and Jekyll Default” below)</span></p>
+
+<p>Well it turns out the MERLOT Layout is pretty structured and then I would have to redo the mobile style.</p>
+
+<p><strong>[Paperball!]</strong></p>
+
+<h2 id="paper-ball-2-jekyll-theme-1"><strong>Paper Ball 2:</strong> Jekyll Theme 1</h2>
+<p>Ah! There are themes for Jekyll! Nice… Let’s go shopping.</p>
+
+<p>One of the first results from searching <code>jekyll themes</code> is <a href="http://jekyllthemes.org/">Jekyll Themes</a>…</p>
+
+<p>I found a nice looking theme that focused on displaying a portfolio of work for an artist or developer.<br />
+The portfolio grid was nice, and I would use it someday but for now I wanted to just hide it and use a basic blog approach. </p>
+
+<p><strong>Problem:</strong> The portfolio grid is fed by the _posts listings. So, if I comment-out the portfolio grid, I have no _post ability. Well after a couple hours I realized that I would need to do too much re-engineering to make this work for my needs.</p>
+
+<p><strong>[Paperball!]</strong></p>
+
+<h2 id="paper-ball-3-jekyll-theme-2"><strong>Paper Ball 3:</strong> Jekyll Theme 2</h2>
+<p>Ok, back to <a href="http://jekyllthemes.org/">Jekyll Themes</a> to see if I can find a tighter fit to a simple blog with some style.</p>
+
+<p>Found one.. It’s a very nice them and focused on technical blogging. I dive in and start customizing it with my data and find; it’s going to take me another couple hours to get it to a baseline setup before beginning to add any content.</p>
+
+<p>This would be a great solution for a client re-design but not for my immediate need.</p>
+
+<p><strong>[Paperball!]</strong></p>
+
+<p>I was running out of project time.<br />
+<strong>I needed to get my blog up and running!</strong><br />
+I am now back to the basics - the Jekyll default theme.</p>
+
+<p>You win for now <strong>Jekyll default style</strong>, but I’m coming back and when I do…<br />
+<strong><em>I’m going to create my own theme!!</em></strong></p>
+
+<hr />
+
+<p><strong>Comparison Between MERLOT and Jekyll Default:</strong></p>
+
+<p><strong>index.MERLOT:</strong> <code>&lt;meta http-equiv="X-UA-Compatible" content="chrome=1"&gt;</code><br />
+<strong>head.JEKYLL:</strong>  <code>&lt;meta http-equiv="X-UA-Compatible" content="IE=edge"&gt;</code></p>
+
+<p><strong>index.MERLOT:</strong> <code>&lt;meta name="viewport" content="width=640"&gt;</code><br />
+<strong>head.JEKYLL:</strong>  <code>&lt;meta name="viewport" content="width=device-width"&gt;</code></p>
+
+<p><strong>index.MERLOT:* <code>n/a</code><br />
+**head.JEKYLL:</strong>  <code>&lt;meta name="description" content="Struggling between breadth and depth of knowledge, this site is devoted to  exploring a balance of both deep and wide topics of web development.
+"&gt;</code></p>
+
+<p><strong>index.MERLOT:</strong> <code>&lt;link rel="stylesheet" href="stylesheets/core.css" media="screen"&gt;</code><br />
+                  <code>&lt;link rel="stylesheet" href="stylesheets/mobile.css" media="handheld, only screen and (max-device-width:640px)"&gt;</code><br />
+                  <code>&lt;link rel="stylesheet" href="stylesheets/pygment_trac.css"&gt;</code><br />
+<strong>head.JEKYLL:</strong>  `<link rel="stylesheet" href="/css/main.css" /></p>
+
+<p><strong>index.MERLOT:</strong> <code>&lt;script type="text/javascript" src="javascripts/modernizr.js"&gt;&lt;/script&gt;</code><br />
+                  <code>&lt;script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"&gt;&lt;/script&gt;</code><br />
+                  <code>&lt;script type="text/javascript" src="javascripts/headsmart.min.js"&gt;&lt;/script&gt;</code><br />
+                  <code>&lt;script type="text/javascript"&gt;</code><br />
+                    <code>$(document).ready(function () {</code><br />
+                    <code>$('#main_content').headsmart()</code><br />
+                    <code>})</code><br />
+                  <code>&lt;/script&gt;</code><br />
+<strong>head.JEKYLL:</strong>  <code>n/a</code></p>
+
+<p><strong>index.MERLOT:</strong> <code>n/a</code><br />
+<strong>head.JEKYLL:</strong>  <code>&lt;link rel="canonical" href="http://allenmay.github.io/jekyll/update/2014/09/07/paperball-3-jekyll-defaul-1.html"&gt;</code>  </p>
+
+<p><strong>index.MERLOT:</strong> <code>&lt;title&gt;Allen May&amp;#39;s GitHub Page by AllenMay&lt;/title&gt;</code><br />
+<strong>head.JEKYLL:</strong>  <code>&lt;title&gt;Score: Paper Ball 3 - Jekyll Default 1&lt;/title&gt;</code></p>
+
+<p><strong>index.MERLOT:</strong>    <code>&lt;body&gt;</code><br />
+<strong>default.JEKYLL:</strong>  <code>&lt;body&gt;</code></p>
 
 <p><strong>List of resources used for this project:</strong></p>
 
 <ul>
-  <li><a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">Markdown Sheat</a> </li>
+  <li><a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">Markdown Cheatsheat</a> </li>
 </ul>
 
 
