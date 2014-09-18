@@ -19,7 +19,7 @@ I didn't have the right URL format for my HTTPS_PROXY environment variable. I at
 
 I just installed GULP with a `$ npm install --global gulp` (I'm soo excited).
 
-With proxy success with NPM, I tried GIT. I finally got `git clone https://github.com/AllenMay/allenmay.github.io.git` to work for me (YAY! More excitement).
+With success with NPM I tried GIT. I finally got `git clone https://github.com/AllenMay/allenmay.github.io.git` to work for me (YAY! More excitement).
 
 Links to resources that help me find my way:
 
