@@ -4,7 +4,7 @@ title:  "Open the Window for Some Fresh Air"
 date:   2014-09-18 16:49:29
 categories: git nodejs proxy
 ---
-##After many years of trying... I think I have my HTTPS_PROXY settings correctly so I can use NPM and GIT.##
+##After a long time trying I think I've finally got my HTTPS_PROXY settings set correctly. I can now use NPM and GIT!##
 
 **GIT:** I have been trying to use GIT inside the corporate firewall for some time. Unfortunately it's blocked by the proxy server.
 
