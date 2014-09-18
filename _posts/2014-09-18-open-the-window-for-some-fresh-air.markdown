@@ -22,6 +22,7 @@ I just installed GULP with a `$ npm install --global gulp` (I'm soo excited).
 With proxy success with NPM, I tried GIT. I finally got `git clone https://github.com/AllenMay/allenmay.github.io.git` to work for me (YAY! More excitement).
 
 Links to resources that help me find my way:
+
 * [Stack Overflow: How do I pull from a Git repository through an HTTP proxy?](http://stackoverflow.com/questions/128035/how-do-i-pull-from-a-git-repository-through-an-http-proxy)
 
 * [Stack Overflow: How to set up Git to get through a proxy](http://stackoverflow.com/questions/7734518/how-to-set-up-git-to-get-through-a-proxy)
