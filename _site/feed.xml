@@ -6,9 +6,80 @@
 </description>
     <link>http://allenmay.github.io/</link>
     <atom:link href="http://allenmay.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 08 Sep 2014 06:07:45 -0400</pubDate>
-    <lastBuildDate>Mon, 08 Sep 2014 06:07:45 -0400</lastBuildDate>
-    <generator>Jekyll v2.3.0</generator>
+    <pubDate>Mon, 27 Oct 2014 21:01:15 -0400</pubDate>
+    <lastBuildDate>Mon, 27 Oct 2014 21:01:15 -0400</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>The Best Intentions</title>
+        <description>&lt;h2 id=&quot;i-really-mean-to-really&quot;&gt;I Really Mean To… Really!&lt;/h2&gt;
+
+&lt;p&gt;Ok, I’ve got Jekyll figured out. I’m GIT’ing and SASS’ing.. I should be cranking out post after post but reality is [not].&lt;/p&gt;
+
+&lt;p&gt;I am going to post something at minimum once a week. Period!&lt;/p&gt;
+
+&lt;p&gt;Let’s see.. what’s the next topic gonna be.. I know!! Jasmine.
+I’ll follow up with some Jasmine walk-through.&lt;/p&gt;
+
+&lt;p&gt;Ooh! then, after that, I can walk through some Firebase stuff.&lt;/p&gt;
+
+&lt;p&gt;This could be fun.&lt;/p&gt;
+
+&lt;p&gt;Until then..&lt;/p&gt;
+
+&lt;p&gt;-Allen&lt;/p&gt;
+</description>
+        <pubDate>Mon, 27 Oct 2014 12:49:29 -0400</pubDate>
+        <link>http://allenmay.github.io/blog/2014/10/27/the-best-intentions.html</link>
+        <guid isPermaLink="true">http://allenmay.github.io/blog/2014/10/27/the-best-intentions.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Open the Window for Some Fresh Air</title>
+        <description>&lt;h2 id=&quot;after-a-long-time-trying-i-think-ive-finally-got-my-httpsproxy-settings-set-correctly-i-can-now-use-npm-and-git&quot;&gt;After a long time trying I think I’ve finally got my HTTPS_PROXY settings set correctly. I can now use NPM and GIT!&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;GIT:&lt;/strong&gt; I have been trying to use GIT inside the corporate firewall for some time. Unfortunately it’s blocked by the proxy server.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;NPM:&lt;/strong&gt; The same problem affects NODE.JS … I can’t NPM anything because it’s blocked.&lt;/p&gt;
+
+&lt;p&gt;This has prevented me from doing any modern web development at work!&lt;/p&gt;
+
+&lt;p&gt;So what was the missing piece?..&lt;/p&gt;
+
+&lt;p&gt;I didn’t have the right URL format for my HTTPS_PROXY environment variable. I attempted &lt;code&gt;http://proxyservername:9090&lt;/code&gt; without success. What I was missing was the username/password embedded in the URL:
+&lt;code&gt;http://[loginname]:[password]@[proxyserver]:[PORT]&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;I just installed GULP with a &lt;code&gt;$ npm install --global gulp&lt;/code&gt; (I’m soo excited).&lt;/p&gt;
+
+&lt;p&gt;With success with NPM I tried GIT. I finally got &lt;code&gt;git clone https://github.com/AllenMay/allenmay.github.io.git&lt;/code&gt; to work for me (YAY! More excitement).&lt;/p&gt;
+
+&lt;p&gt;Links to resources that help me find my way:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://stackoverflow.com/questions/128035/how-do-i-pull-from-a-git-repository-through-an-http-proxy&quot;&gt;Stack Overflow: How do I pull from a Git repository through an HTTP proxy?&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://stackoverflow.com/questions/7734518/how-to-set-up-git-to-get-through-a-proxy&quot;&gt;Stack Overflow: How to set up Git to get through a proxy&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 18 Sep 2014 12:49:29 -0400</pubDate>
+        <link>http://allenmay.github.io/git/nodejs/proxy/2014/09/18/open-the-window-for-some-fresh-air.html</link>
+        <guid isPermaLink="true">http://allenmay.github.io/git/nodejs/proxy/2014/09/18/open-the-window-for-some-fresh-air.html</guid>
+        
+        
+        <category>git</category>
+        
+        <category>nodejs</category>
+        
+        <category>proxy</category>
+        
+      </item>
     
       <item>
         <title>Score: Paper Ball 3 - Jekyll Default 1</title>

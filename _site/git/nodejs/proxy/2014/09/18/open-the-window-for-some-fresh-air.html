@@ -6,12 +6,12 @@
     <meta name="viewport" content="width=device-width">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>Beginings Can Be Soo Hard!</title>
+    <title>Open the Window for Some Fresh Air</title>
     <meta name="description" content="Struggling between breadth and depth of knowledge, this site is devoted to  exploring a balance of both deep and wide topics of web development.
 ">
 
     <link rel="stylesheet" href="/css/main.css">
-    <link rel="canonical" href="http://allenmay.github.io/jekyll/update/2014/09/07/welcome-to-jekyll.html">
+    <link rel="canonical" href="http://allenmay.github.io/git/nodejs/proxy/2014/09/18/open-the-window-for-some-fresh-air.html">
 </head>
 
 
@@ -58,21 +58,38 @@
         <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">Beginings Can Be Soo Hard!</h1>
-    <p class="post-meta">Sep 7, 2014</p>
+    <h1 class="post-title">Open the Window for Some Fresh Air</h1>
+    <p class="post-meta">Sep 18, 2014</p>
   </header>
 
   <article class="post-content">
-    <p>I am building my GitHub pages with Jekyll and exploring the differences between the GitHub site Layout templates.
-I’m also exploring the Jekyll themes and trying to incorporate what I like into the right blend of design and functionality.</p>
+    <h2 id="after-a-long-time-trying-i-think-ive-finally-got-my-httpsproxy-settings-set-correctly-i-can-now-use-npm-and-git">After a long time trying I think I’ve finally got my HTTPS_PROXY settings set correctly. I can now use NPM and GIT!</h2>
 
-<p>Ha! I’ll never get this site up…</p>
+<p><strong>GIT:</strong> I have been trying to use GIT inside the corporate firewall for some time. Unfortunately it’s blocked by the proxy server.</p>
 
-<p>I’m finishing this edit and committing to GitHub so I can salvage some of my day.</p>
+<p><strong>NPM:</strong> The same problem affects NODE.JS … I can’t NPM anything because it’s blocked.</p>
 
-<p>Tomorrow morning becomes for more work on this site….</p>
+<p>This has prevented me from doing any modern web development at work!</p>
 
-<p>Until then… [commit]</p>
+<p>So what was the missing piece?..</p>
+
+<p>I didn’t have the right URL format for my HTTPS_PROXY environment variable. I attempted <code>http://proxyservername:9090</code> without success. What I was missing was the username/password embedded in the URL:
+<code>http://[loginname]:[password]@[proxyserver]:[PORT]</code></p>
+
+<p>I just installed GULP with a <code>$ npm install --global gulp</code> (I’m soo excited).</p>
+
+<p>With success with NPM I tried GIT. I finally got <code>git clone https://github.com/AllenMay/allenmay.github.io.git</code> to work for me (YAY! More excitement).</p>
+
+<p>Links to resources that help me find my way:</p>
+
+<ul>
+  <li>
+    <p><a href="http://stackoverflow.com/questions/128035/how-do-i-pull-from-a-git-repository-through-an-http-proxy">Stack Overflow: How do I pull from a Git repository through an HTTP proxy?</a></p>
+  </li>
+  <li>
+    <p><a href="http://stackoverflow.com/questions/7734518/how-to-set-up-git-to-get-through-a-proxy">Stack Overflow: How to set up Git to get through a proxy</a></p>
+  </li>
+</ul>
 
   </article>
 
