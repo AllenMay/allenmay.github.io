@@ -9,7 +9,7 @@ listing random thoughts.
 
 I'll post back to this post, with timestamp every time I have an idea for a project.
 
-* _10/31/2014_ - Create an Ember.js / Firebase app at work to do the following:
+* __10/31/2014__ - Create an Ember.js / Firebase app at work to do the following:
   * Verify I can use Firebase throught the firewall
   * Start using Ember.js more
   * Add more useable tools to the IntrAnet
