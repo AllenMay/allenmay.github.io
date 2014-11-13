@@ -58,6 +58,12 @@ body {
   font-size: 1.25em;
 }
 
+.billboard {
+  font-family: 'Limelight', cursive !IMPORTANT;
+  font-size: 1.5em !IMPORTANT;
+  color: rgba(210, 45, 45, 1);
+}
+
 /*********************************************
  * LINKS
  *********************************************/
@@ -82,6 +88,9 @@ body {
 /*********************************************
  * IMAGES
  *********************************************/
+/*body > div > div.slides > section.stack.present > section.present > img.noborder*/
+
+
 .reveal section img {
   margin: 15px 0px;
   background: rgba(255, 255, 255, 0.12);
@@ -92,6 +101,11 @@ body {
   -ms-transition: all .2s linear;
   -o-transition: all .2s linear;
   transition: all .2s linear; }
+
+.reveal section img.noborder {
+  border: 0;
+  box-shadow: none;  }
+
 
 .reveal a:hover img {
   background: rgba(255, 255, 255, 0.2);
