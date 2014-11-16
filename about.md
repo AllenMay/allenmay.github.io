@@ -10,14 +10,15 @@ You can find the source code for the Jekyll new theme at: [github.com/jglovier/j
 
 You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll) -->
 
-I have been part of the Information Technology / Computer Systems Engineering 
-field for over 20 years. I have a wide variety of experience in networking, 
-enterprise architecture support, database development and administration. But I always finds himself 
-coming back to my true passion - working with modern web technologies that serve client or public interest.
+Allen has been part of the Information Technology / Computer Systems Engineering field for over 20 years. He’s has a wide variety of experience in networking, enterprise architecture support, database development and database administration. He has always found himself coming back to a true passion - working with modern web technologies that serve client or public interest.
 
-My breadth of knowledge spans across the Microsoft, Apple and Unix/Linux environments. I am comfortable with a Windows, Mac or a Linux desktop.
+His breadth of knowledge spans across the Microsoft, Apple and Unix/Linux environments. He’s comfortable working on a solutions using tools from a Windows, Mac or a Linux system.
 
-My depth of knowledge has been in PHP, C# and MS-SQL development. I have also spent a lot of time working with Perl scripting for automation and data conversion.
-I have spent a lot of time supporting and customizing SugarCRM (a php-based CRM web application) and WordPress (one of the most popular php-based blog/content management system)
+His depth of knowledge has been in PHP, C# and MS-SQL development but he’s also developed extensive Perl applications for process automation and data conversion. 
 
-I would consider myself a "full stack" engineer, frequently I will build my servers, configure them to the needs of the application, and develop the applications needed for that project.
+He has been the exclusive project lead, administrator and developer for SugarCRM, the company customer relationship management solution. 
+
+Allen is the exclusive administer and developer for the company Intranet. He initially built the Intranet into an ASP.NET C# solution but moved to WordPress to encourage outside departments to collaborate content management. 
+
+He considers himself a “full stack” engineer - he is comfortable using his system engineering skills to build a project server then switch to database administrator role to install, configure and develop the database then switch roles again to a developer role to code needed for the project.
+
