@@ -16,7 +16,7 @@ He has a broad IT background but always comes back to his passion - working with
 
 His depth of knowledge has been in PHP, C# and MS-SQL development but he’s also developed extensive Perl applications for process automation and data conversion. 
 
-He has been the exclusive project lead, administrator and developer for SugarCRM, the company customer relationship management solution. 
+He has been the exclusive project lead, administrator and developer for the customer relationship management solution - SugarCRM. 
 
 Allen is the exclusive administer and developer for the company Intranet. He initially built the Intranet into an ASP.NET C# solution but moved to WordPress to encourage outside departments to collaborate content management. 
 
