@@ -10,9 +10,8 @@ You can find the source code for the Jekyll new theme at: [github.com/jglovier/j
 
 You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll) -->
 
-Allen has been part of the Information Technology / Computer Systems Engineering field for over 20 years. He has a wide variety of experience in networking, enterprise architecture support, database development and database administration be he has always found himself coming back to a true passion - working with modern web technologies that serve client or public interest.
-
-His breadth of knowledge spans across the Microsoft, Apple and Unix/Linux environments. He’s comfortable working on a solutions using tools from a Windows, Mac or a Linux system.
+Allen has been part of the Information Technology / Computer Systems Engineering field for over 20 years. He has a wide variety of experience in networking, enterprise architecture support, database development and database administration.
+He has a broad IT background but always comes back to his passion - working with modern web technologies that serve client or public interest.
 
 His depth of knowledge has been in PHP, C# and MS-SQL development but he’s also developed extensive Perl applications for process automation and data conversion. 
 
