@@ -6,9 +6,57 @@
 </description>
     <link>http://allenmay.github.io/</link>
     <atom:link href="http://allenmay.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 19 Nov 2014 05:52:17 -0500</pubDate>
-    <lastBuildDate>Wed, 19 Nov 2014 05:52:17 -0500</lastBuildDate>
+    <pubDate>Wed, 19 Nov 2014 06:51:48 -0500</pubDate>
+    <lastBuildDate>Wed, 19 Nov 2014 06:51:48 -0500</lastBuildDate>
     <generator>Jekyll v2.5.1</generator>
+    
+      <item>
+        <title>Simple Font Wireup</title>
+        <description>&lt;p&gt;To add some “flare”, I wired up a “Vollkorn” Google font.&lt;/p&gt;
+
+&lt;p&gt;I haven’t done much with web fonts but each time I do it seems to be an easy process.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 19 Nov 2014 00:49:29 -0500</pubDate>
+        <link>http://allenmay.github.io/blog/2014/11/19/simple-font-wireup.html</link>
+        <guid isPermaLink="true">http://allenmay.github.io/blog/2014/11/19/simple-font-wireup.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Dayton WordPress: Exploring WordPress Workflows</title>
+        <description>&lt;p&gt;I was proud to present at the &lt;a href=&quot;http://www.meetup.com/Dayton-WordPress/events/214530742/&quot;&gt;11/12/2014 WordPress Meetup&lt;/a&gt;.&lt;br /&gt;
+The topic - &lt;em&gt;WordPress Workflows&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Originally I planned to be one of several “lightning round” presenters, presenting for 10-15 minutes on a subject. There were no other volunteers to speak, so I was asked to speak the entire hour.&lt;/p&gt;
+
+&lt;p&gt;When giving presentations, I always want to have an interesting message or provide information of value. I had only been to this meetup once before, so I was not sure of the audience. I made some assumptions of what might be a good topic, based on what I would find of interest.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-surprise-guest&quot;&gt;A Surprise Guest&lt;/h2&gt;
+&lt;p&gt;I purposely added slides at the beginning of my presentation to promote the other meetups I’m involved with (Clean Coders, GemCityJS, Dayton Web Developers and GiveCamp).&lt;br /&gt;
+When I mentioned how GiveCamp is a great resource to plug-into because it’s heavy with WordPress needs, &lt;strong&gt;Rachel Barnett&lt;/strong&gt; (who was sitting on my far left) spoke up and said she can testify to the value of GiveCamp. She came in late so I didn’t see her come in.&lt;/p&gt;
+
+&lt;p&gt;Rachel Barnett is from the Dayton Ombudsman Association - the non-profit project that I was on during GiveCamp 2014. Rachel hung out with our project team at GiveCamp as we worked on their WordPress/database project.&lt;/p&gt;
+
+&lt;p&gt;During GiveCamp I suggested she come to the WordPress MeetUp to learn more about WordPress. I was pleasantly surprised to see her there and glad she took my advice.&lt;/p&gt;
+
+&lt;p&gt;After my presentation we all turned our attention to Rachel’s WordPress needs. We created an impromptu workshop to address some of her problems in WordPress.&lt;/p&gt;
+
+&lt;p&gt;Nathan Driver (the meeting coordinator) suggested the next meeting be another workshop for Rachel’s WordPress website.&lt;/p&gt;
+
+&lt;p&gt;There’s something magical about being the pivot point where connections are made, that might not have happened if you were weren’t there.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 12 Nov 2014 13:49:29 -0500</pubDate>
+        <link>http://allenmay.github.io/blog/2014/11/12/wordpress-meetup-presentation.html</link>
+        <guid isPermaLink="true">http://allenmay.github.io/blog/2014/11/12/wordpress-meetup-presentation.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Some Projects To Consider</title>
