@@ -6,9 +6,43 @@
 </description>
     <link>http://allenmay.github.io/</link>
     <atom:link href="http://allenmay.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 27 Oct 2014 21:01:15 -0400</pubDate>
-    <lastBuildDate>Mon, 27 Oct 2014 21:01:15 -0400</lastBuildDate>
-    <generator>Jekyll v2.4.0</generator>
+    <pubDate>Wed, 19 Nov 2014 05:52:17 -0500</pubDate>
+    <lastBuildDate>Wed, 19 Nov 2014 05:52:17 -0500</lastBuildDate>
+    <generator>Jekyll v2.5.1</generator>
+    
+      <item>
+        <title>Some Projects To Consider</title>
+        <description>&lt;p&gt;Since I can’t seem to lock on a project target I’m going to start 
+listing random thoughts.&lt;/p&gt;
+
+&lt;p&gt;I’ll post back to this post, with timestamp every time I have an idea for a project.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;10/31/2014 - Create an Ember.js / Firebase app at work to do the following:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Verify I can use Firebase throught the firewall&lt;/li&gt;
+      &lt;li&gt;Start using Ember.js more&lt;/li&gt;
+      &lt;li&gt;Add more useable tools to the IntrAnet&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;10/31/2014 - Use the Javascript from a previous project (payment office) do do the following:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Create Jasmine testing&lt;/li&gt;
+      &lt;li&gt;Use pre-compilers for Javascript and CSS&lt;/li&gt;
+      &lt;li&gt;Document/blog all I learned&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Fri, 31 Oct 2014 08:49:29 -0400</pubDate>
+        <link>http://allenmay.github.io/blog/2014/10/31/some-projects-to-consider.html</link>
+        <guid isPermaLink="true">http://allenmay.github.io/blog/2014/10/31/some-projects-to-consider.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>The Best Intentions</title>
