@@ -26,5 +26,9 @@ After a couple months and several e-mails I'm not getting much feedback from the
 
 **Provide constructive energy without the caffeine =:)**
 
+**01-07-2015 - Follow up**
+I received e-mail from the meetup organizer the evening I posted this. They were busy, I was over-anxious to get started. All is good.  
+I didn't "put them off" with my enthusiam, but again I should always keep my enthusiasm from becoming over caffeinated.
+
 [1]: https://gettingreal.37signals.com/
 [2]: https://twitter.com/37signals
