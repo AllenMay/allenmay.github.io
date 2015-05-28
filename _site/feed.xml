@@ -6,9 +6,47 @@
 </description>
     <link>http://allenmay.github.io/</link>
     <atom:link href="http://allenmay.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 19 Nov 2014 06:51:48 -0500</pubDate>
-    <lastBuildDate>Wed, 19 Nov 2014 06:51:48 -0500</lastBuildDate>
-    <generator>Jekyll v2.5.1</generator>
+    <pubDate>Thu, 28 May 2015 06:28:33 -0400</pubDate>
+    <lastBuildDate>Thu, 28 May 2015 06:28:33 -0400</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Getting Real - Enthusiasm</title>
+        <description>&lt;p&gt;I have been reading “&lt;a href=&quot;https://gettingreal.37signals.com/&quot;&gt;Getting Real&lt;/a&gt;” by &lt;a href=&quot;https://twitter.com/37signals&quot;&gt;@37Signals&lt;/a&gt; and came across content that describes me well.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;h3 id=&quot;chapter-8---you-cant-fake-enthusiasm&quot;&gt;Chapter 8 - You Can’t Fake Enthusiasm&lt;/h3&gt;
+  &lt;p&gt;&lt;strong&gt;Go for happy and average over frustrated and great Enthusiasm.&lt;/strong&gt; It’s one attribute you just can’t fake. When it comes time to hire, don’t think you need a guru or a tech-celebrity. Often, they’re just primadonnas anyway. A happy yet average employee is better than a disgruntled expert.&lt;/p&gt;
+
+  &lt;p&gt;Find someone who’s enthusiastic. Someone you can trust to get things done when left alone. Someone who’s suffered at a bigger, slower company and longs for a new environment. Someone who’s excited to build what you’re building. Someone who hates the same things&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I have a lot of enthusiasm for web development. I spend a lot of my free time “dialed in” to what’s going on in the web development community through meetups, podcast, blogs and tweets. Unfortunately, I’m the only one interested in web development at my 8-5 job so there are rarely opportunities to “talk shop”.&lt;/p&gt;
+
+&lt;p&gt;This pent up enthusiasm sometimes spills out when I go to meetups or have the rare conversation with web-dev peers.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Enthusiasm without being overbearing.&lt;/strong&gt;&lt;br /&gt;
+I sometimes feel my enthusiasm can be overbearing (or over caffeinated) and I try to keep that “in check”.&lt;br /&gt;
+For example, I was recently asked to help co-organize a local meetup. With my typical enthusiasm I said YES!! I’ve offered several suggestions how I could help out and asked if we should meet to do some planning.&lt;br /&gt;
+After a couple months and several e-mails I’m not getting much feedback from the current organizer. I &lt;em&gt;might&lt;/em&gt; have put them off by being so overzealous.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;My personal challenge:&lt;/strong&gt; Be enthusiastic, encouraging and supportive without being overbearing.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Provide constructive energy without the caffeine =:)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;01-07-2015 - Follow up&lt;/strong&gt;&lt;br /&gt;
+I received e-mail from the meetup organizer the evening I posted this. They were busy, I was over-anxious to get started. All is good.&lt;br /&gt;
+I didn’t “put them off” with my enthusiam, but again I should always keep my enthusiasm from becoming over caffeinated.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 06 Jan 2015 00:49:29 -0500</pubDate>
+        <link>http://allenmay.github.io/blog/2015/01/06/getting-real-enthusiasm.html</link>
+        <guid isPermaLink="true">http://allenmay.github.io/blog/2015/01/06/getting-real-enthusiasm.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Simple Font Wireup</title>
@@ -171,13 +209,13 @@ I’ll follow up with some Jasmine walk-through.&lt;/p&gt;
 
 &lt;p&gt;I had a great idea - use GitHub Pages as my central blog for projects and interest. Sounds simple enough, right? Well it is simple if you keep focus on the project priority, start with the basics and explore your options later.&lt;/p&gt;
 
-&lt;p&gt;Well, after several hours I found myself exploring &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;, themes for Jekyll and the GitHub Layout themes. &lt;/p&gt;
+&lt;p&gt;Well, after several hours I found myself exploring &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;, themes for Jekyll and the GitHub Layout themes.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;This is where I went off track:&lt;/strong&gt; I wanted to combine the best parts of all my options and found myself drifting away from the mission.
 I had to “paper ball” my efforts 3 times before accepting the fact that I had gone off target and needed to get back to the original goal.&lt;/p&gt;
 
 &lt;h2 id=&quot;paper-ball-1-github-page-layout&quot;&gt;&lt;strong&gt;Paper Ball 1:&lt;/strong&gt; GitHub Page Layout&lt;/h2&gt;
-&lt;p&gt;Creating a GitHub page is an easy implementation, just create a new repo with the name &lt;code&gt;[your GitHubID].github.io&lt;/code&gt;. &lt;/p&gt;
+&lt;p&gt;Creating a GitHub page is an easy implementation, just create a new repo with the name &lt;code&gt;[your GitHubID].github.io&lt;/code&gt;.&lt;/p&gt;
 
 &lt;p&gt;GitHub provides a nice theme tool to get your GitHub page up and running. Go to &lt;strong&gt;Settings -&amp;gt; GitHub Pages -&amp;gt; Automatic Page Generator&lt;/strong&gt; and you’ll find find several layouts to choose from. I had already installed Jekyll locally and found the default style of Jekyll pretty plain so the MERLOT layout look like a nice style for my project.&lt;/p&gt;
 
@@ -195,7 +233,7 @@ I had to “paper ball” my efforts 3 times before accepting the fact that I ha
 &lt;p&gt;One of the first results from searching &lt;code&gt;jekyll themes&lt;/code&gt; is &lt;a href=&quot;http://jekyllthemes.org/&quot;&gt;Jekyll Themes&lt;/a&gt;…&lt;/p&gt;
 
 &lt;p&gt;I found a nice looking theme that focused on displaying a portfolio of work for an artist or developer.&lt;br /&gt;
-The portfolio grid was nice, and I would use it someday but for now I wanted to just hide it and use a basic blog approach. &lt;/p&gt;
+The portfolio grid was nice, and I would use it someday but for now I wanted to just hide it and use a basic blog approach.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Problem:&lt;/strong&gt; The portfolio grid is fed by the _posts listings. So, if I comment-out the portfolio grid, I have no _post ability. Well after a couple hours I realized that I would need to do too much re-engineering to make this work for my needs.&lt;/p&gt;
 
@@ -247,7 +285,7 @@ I am now back to the basics - the Jekyll default theme.&lt;/p&gt;
 &lt;strong&gt;head.JEKYLL:&lt;/strong&gt;  &lt;code&gt;n/a&lt;/code&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;index.MERLOT:&lt;/strong&gt; &lt;code&gt;n/a&lt;/code&gt;&lt;br /&gt;
-&lt;strong&gt;head.JEKYLL:&lt;/strong&gt;  &lt;code&gt;&amp;lt;link rel=&quot;canonical&quot; href=&quot;http://allenmay.github.io/jekyll/update/2014/09/07/paperball-3-jekyll-defaul-1.html&quot;&amp;gt;&lt;/code&gt;  &lt;/p&gt;
+&lt;strong&gt;head.JEKYLL:&lt;/strong&gt;  &lt;code&gt;&amp;lt;link rel=&quot;canonical&quot; href=&quot;http://allenmay.github.io/jekyll/update/2014/09/07/paperball-3-jekyll-defaul-1.html&quot;&amp;gt;&lt;/code&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;index.MERLOT:&lt;/strong&gt; &lt;code&gt;&amp;lt;title&amp;gt;Allen May&amp;amp;#39;s GitHub Page by AllenMay&amp;lt;/title&amp;gt;&lt;/code&gt;&lt;br /&gt;
 &lt;strong&gt;head.JEKYLL:&lt;/strong&gt;  &lt;code&gt;&amp;lt;title&amp;gt;Score: Paper Ball 3 - Jekyll Default 1&amp;lt;/title&amp;gt;&lt;/code&gt;&lt;/p&gt;
@@ -258,7 +296,7 @@ I am now back to the basics - the Jekyll default theme.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;List of resources used for this project:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&quot;&gt;Markdown Cheatsheat&lt;/a&gt; &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&quot;&gt;Markdown Cheatsheat&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 </description>
