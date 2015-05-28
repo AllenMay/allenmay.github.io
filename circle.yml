@@ -4,10 +4,6 @@ general:
     only:
       - master
 
-  ruby:
-    version:
-      2.2.0
-
 dependencies:
   post:
     - bundle exec jekyll build:
