@@ -1,13 +1,20 @@
+## Customize the test machine
+machine:
+  # Version of ruby to use
+  ruby:
+    version:
+      2.1.2
 
 general:
   branches:
     only:
       - master
 
+## Customize dependencies
 dependencies:
-  post:
-    - exec jekyll build:
-        timeout: 300 # 5 min
+  override:
+    - bundle exec jekyll build:
+        timeout: 3600 # fail if command has no output for 60 minutes
 
 test:
   override:
