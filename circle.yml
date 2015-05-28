@@ -6,7 +6,7 @@ general:
 
 dependencies:
   post:
-    exec jekyll build:
+    - exec jekyll build:
         timeout: 300 # 5 min
 
 test:
