@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "Open the Window for Some Fresh Air"
+categories: [blog]
 date:   2014-09-18 16:49:29
-categories: git nodejs proxy
+tags: [git, nodejs, proxy]
+published: True
 ---
 ##After a long time trying I think I've finally got my HTTPS_PROXY settings set correctly. I can now use NPM and GIT!##
 

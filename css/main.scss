@@ -6,9 +6,20 @@
 .post-icon {
   margin: 0 20%;
 }
-
+.postright {
+	// position: relative;
+	width: 300px;
+	height: 214px;
+	// margin: 0 20%;
+	float: right;
+}
 .parened {
 	color: grey;
+}
+.commentor {
+    background-color: #666666;
+    padding: 20px;
+    color: #fff;
 }
 
 

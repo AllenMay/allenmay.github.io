@@ -1,8 +1,18 @@
 .post-icon {
   margin: 0 20%; }
 
+.postright {
+  width: 300px;
+  height: 214px;
+  float: right; }
+
 .parened {
   color: grey; }
+
+.commentor {
+  background-color: #666666;
+  padding: 20px;
+  color: #fff; }
 
 /**
  * Reset some basic elements

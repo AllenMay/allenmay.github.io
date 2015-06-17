@@ -2,7 +2,8 @@
 layout: post
 title:  "Beginings Can Be Soo Hard!"
 date:   2014-09-07 14:11:29
-categories: jekyll update
+tags: jekyll update
+categories: blog
 ---
 I am building my GitHub pages with Jekyll and exploring the differences between the GitHub site Layout templates.
 I'm also exploring the Jekyll themes and trying to incorporate what I like into the right blend of design and functionality.

@@ -4,7 +4,7 @@ title:  "Getting Real - Enthusiasm"
 date:   2015-01-06 05:49:29
 categories: blog
 ---
-I have been reading "[Getting Real][1]" by [@37Signals][2] and came across content that describes me well.
+{{ site.baseurl }}  I have been reading "[Getting Real][1]" by [@37Signals][2] and came across content that describes me well.
 
 > ### Chapter 8 - You Can’t Fake Enthusiasm
 > **Go for happy and average over frustrated and great Enthusiasm.** It’s one attribute you just can’t fake. When it comes time to hire, don’t think you need a guru or a tech-celebrity. Often, they’re just primadonnas anyway. A happy yet average employee is better than a disgruntled expert. 

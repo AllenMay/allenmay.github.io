@@ -2,7 +2,8 @@
 layout: post
 title:  "Score: Paper Ball 3 - Jekyll Default 1"
 date:   2014-09-08 02:41:29
-categories: jekyll update
+tags: [jekyll, update]
+categories: [blog]
 ---
 ## **MISSION:** Create a Central Profile Blog Using GitHub Pages
 
