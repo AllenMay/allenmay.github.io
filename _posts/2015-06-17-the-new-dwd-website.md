@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The New DWD Website
-categories: [blog]
+categories: [blog dwd]
 tags: []
 published: True
 
