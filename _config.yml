@@ -15,3 +15,8 @@ github_username:  allenmay
 
 # Build settings
 markdown: kramdown
+
+collections:
+  dwd:
+    output: true
+    permalinke: /dwd/:path/

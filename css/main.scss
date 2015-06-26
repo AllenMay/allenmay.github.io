@@ -11,7 +11,7 @@
 	width: 300px;
 	height: 214px;
 	// margin: 0 20%;
-	float: right;
+	// float: right;
 }
 .parened {
 	color: grey;
@@ -64,7 +64,8 @@ $on-laptop:        800px;
 @import
         "base",
         "layout",
-        "syntax-highlighting"
+        "syntax-highlighting",
+        "bootstrap"
 ;
 
 
