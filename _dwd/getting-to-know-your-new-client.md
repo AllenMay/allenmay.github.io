@@ -5,9 +5,9 @@ categories:
 subtext:   For our new website we should ask ourselves the same questions we should ask our clients. Let's take a closer look at the early discussions with a new client project.
 date:   2015-6-17 05:49:29
 ---
-# Exploring the early relationship with a new a Client #  
-<img src="/images/ClientMeeting.svg" alt="Client Meeting" >  
-
+#Exploring the early relationship with a new a Client#
+<img src="/images/ClientMeeting.svg" alt="Client Meeting">
+{::options parse_block_html="true" /}
 <div class="well" id="wells">A client is a person looking for your professional advice or service. This person might represent a business needing a new website or maybe they're a marketing manager from a large organization.</div>
 
 Are clients needing help with a complex project or do they need some consulting advice? Have they given this project a lot of thought or do they just need Our clients are diverse and their needs could be even more diverse.  
