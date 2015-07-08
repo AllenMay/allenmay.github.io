@@ -22,6 +22,18 @@
     color: #fff;
 }
 
+svg {
+  // display: block;
+  // width: 100px;
+}
+
+rect {
+  transform-origin: 50% 0%;
+}
+
+path {
+  transform-origin: 50% 50%;
+}
 
 // Our variables
 $base-font-family: 'Vollkorn', serif, Helvetica, Arial, sans-serif;

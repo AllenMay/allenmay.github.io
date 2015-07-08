@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://allenmay.github.io/</loc>
+  <lastmod>2015-07-05T10:45:02+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://allenmay.github.io/about/</loc>
+  <lastmod>2015-07-05T10:45:02+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://allenmay.github.io/docs/AllenHMay.pdf</loc>
+  <lastmod>2015-07-05T10:45:02+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://allenmay.github.io/blog/2015/06/07/the-new-dwd-website.html</loc>
+  <lastmod>2015-07-05T10:45:02+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://allenmay.github.io/blog/2015/01/06/getting-real-enthusiasm.html</loc>
+  <lastmod>2015-07-05T10:45:02+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://allenmay.github.io/blog/2014/11/19/simple-font-wireup.html</loc>
+  <lastmod>2015-07-05T10:45:02+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://allenmay.github.io/blog/2014/11/12/wordpress-meetup-presentation.html</loc>
+  <lastmod>2015-07-05T10:45:02+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://allenmay.github.io/blog/2014/10/31/some-projects-to-consider.html</loc>
+  <lastmod>2015-07-05T10:45:02+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://allenmay.github.io/blog/2014/10/27/the-best-intentions.html</loc>
+  <lastmod>2015-07-05T10:45:02+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://allenmay.github.io/blog/2014/09/18/open-the-window-for-some-fresh-air.html</loc>
+  <lastmod>2015-07-05T10:45:02+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://allenmay.github.io/blog/2014/09/08/paperball-3-jekyll-defaul-1.html</loc>
+  <lastmod>2015-07-05T10:45:02+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://allenmay.github.io/blog/2014/09/07/welcome-to-jekyll.html</loc>
+  <lastmod>2015-07-05T10:45:02+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://allenmay.github.io/dwd/getting-to-know-your-new-client.html</loc>
+  <lastmod>2015-07-05T10:45:02+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+</urlset>
