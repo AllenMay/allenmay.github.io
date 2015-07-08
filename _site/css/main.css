@@ -17,7 +17,7 @@ rect {
   transform-origin: 50% 0%; }
 
 path {
-  transform-origin: 50% 50%; }
+  transform-origin: 50%; }
 
 /**
  * Reset some basic elements
