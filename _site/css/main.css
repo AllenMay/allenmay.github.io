@@ -17,7 +17,16 @@ rect {
   transform-origin: 50% 0%; }
 
 path {
-  transform-origin: 50%; }
+  transform-origin: 50%;
+  filter: progid:DXImageTransform.Microsoft.Matrix(M11=0.70710678, M12=-0.70710678, M21=0.70710678, M22=0.70710678, sizingMethod='auto expand');
+  /* IE6, IE7 */
+  -ms-filter: "progid:DXImageTransform.Microsoft.Matrix(M11=0.70710678, M12=-0.70710678, M21=0.70710678, M22=0.70710678, sizingMethod='auto expand')";
+  /* IE8 */
+  zoom: 1;
+  position: relative\9;
+  /* the \9 is intentional, @see http://paulirish.com/2009/browser-specific-css-hacks/*/
+  top: -21px\9;
+  left: -21px\9; }
 
 /**
  * Reset some basic elements
