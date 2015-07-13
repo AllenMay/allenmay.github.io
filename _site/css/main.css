@@ -17,6 +17,7 @@ rect {
   transform-origin: 50% 0%; }
 
 path {
+  -moz-transform-origin: 75px 75px;
   transform-origin: 50% 50%; }
 
 /**
