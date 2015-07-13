@@ -12,6 +12,7 @@
     <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script> 
     <script src="http://julian.com/research/velocity/build/jquery.velocity.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/velocity/1.2.2/velocity.ui.js"></script>
+
     <link href='http://fonts.googleapis.com/css?family=Vollkorn' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="/css/main.css">
     <link rel="canonical" href="http://allenmay.github.io/about/">
@@ -25,23 +26,70 @@
 
   <div class="wrapper">
   <p class="site-title">
-    <svg version="1.1" width="50" height="50"
-         viewBox="-20 -20 100 100" xmlns="http://www.w3.org/2000/svg">
+    <svg width="50" height="50"
+         viewBox="-20 -20 100 100">
         <!-- <circle cx="100" cy="100" r="200" style="fill: blue" /> -->
       <circle cx="26.7321" cy="26.7321" r="44" style="fill:#ebebeb;stroke-width:2px;stroke:#000;"/>
       <path id="leftBox" 
             d="M51.7321,26.7321c0,13.8071 -11.1929,25 -25,25" 
-            style="fill:#ebebeb;stroke-width:2px;stroke:#000;"/>
+            style="fill:#ebebeb;stroke-width:2px;stroke:#000;" transform="rotate(0) translate(0 0)"/>
       <path id="topBox" 
             d="M26.7321,51.7321c-13.8071,0 -25,-11.1929 -25,-25" 
-            style="fill:#ebebeb;stroke-width:2px;stroke:#000;"/>
+            style="fill:#ebebeb;stroke-width:2px;stroke:#000;" transform="rotate(0) translate(0 0)"/>
       <path id="rightBox" 
             d="M1.73205,26.7321c0,-13.8071 11.1929,-25 25,-25" 
-            style="fill:#ebebeb;stroke-width:2px;stroke:#000;"/>
+            style="fill:#ebebeb;stroke-width:2px;stroke:#000;" transform="rotate(0) translate(0 0)"/>
     <path id="bottomBox" 
             d="M26.7321,1.73205c13.8071,0 25,11.1929 25,25" 
-            style="fill:#ebebeb;stroke-width:2px;stroke:#000;"/>
-
+            style="fill:#ebebeb;stroke-width:2px;stroke:#000;" transform="rotate(0) translate(0 0)"/>
+  <animateTransform 
+           xlink:href="#leftBox"
+           attributeName="transform" 
+           attributeType="XML"
+           type="rotate"
+           from="0 40 40"
+           to="360 40 40" 
+           dur="10s"
+           begin="0s"
+           repeatCount="indefinite"
+           fill="freeze"
+           />
+  <animateTransform 
+           xlink:href="#topBox"
+           attributeName="transform" 
+           attributeType="XML"
+           type="rotate"
+           from="0 15 40"
+           to="360 15 40" 
+           dur="10s"
+           begin="0s"
+           repeatCount="indefinite"
+           fill="freeze"
+           />
+  <animateTransform 
+           xlink:href="#rightBox"
+           attributeName="transform" 
+           attributeType="XML"
+           type="rotate"
+           from="0 15 15"
+           to="360 15 15" 
+           dur="10s"
+           begin="0s"
+           repeatCount="indefinite"
+           fill="freeze"
+           />
+  <animateTransform 
+           xlink:href="#bottomBox"
+           attributeName="transform" 
+           attributeType="XML"
+           type="rotate"
+           from="0 40 15"
+           to="360 40 15" 
+           dur="10s"
+           begin="0s"
+           repeatCount="indefinite"
+           fill="freeze"
+           />
     </svg>
     <a href="/">Allen May's GitHub Page</a>
     <p>
