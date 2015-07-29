@@ -6,9 +6,25 @@
 </description>
     <link>http://allenmay.github.io/</link>
     <atom:link href="http://allenmay.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 13 Jul 2015 06:45:10 -0400</pubDate>
-    <lastBuildDate>Mon, 13 Jul 2015 06:45:10 -0400</lastBuildDate>
+    <pubDate>Wed, 29 Jul 2015 19:16:48 -0400</pubDate>
+    <lastBuildDate>Wed, 29 Jul 2015 19:16:48 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Babel Starter</title>
+        <description>&lt;p&gt;This morning I walked through an insightful video tutorial from &lt;strong&gt;Tuts+&lt;/strong&gt; called &quot;&lt;a href=&quot;http://code.tutsplus.com/courses/start-coding-es6-with-babel/lessons/babel-on-the-client&quot;&gt;Full Stack ES6 with Babel&lt;/a&gt;&quot;. In this 9 minute video &lt;a href=&quot;http://tutsplus.com/authors/jason-green&quot;&gt;Jason Green&lt;/a&gt; not only demonstrates how to install and configure the &lt;strong&gt;Node.js&lt;/strong&gt; modules he tells you some background on the modules and why you need them.&lt;/p&gt;
+
+&lt;p&gt;After about 15 minutes of twiddling I had a fully automated &lt;strong&gt;Gulp&lt;/strong&gt; &quot;skeleton&quot; build with &lt;strong&gt;Babel&lt;/strong&gt; integrated to allow me to use &lt;strong&gt;ES6&lt;/strong&gt; code in my project.&lt;/p&gt;
+
+&lt;p&gt;Very cool and great foundation. Thanks Jason!&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 29 Jul 2015 00:00:00 -0400</pubDate>
+        <link>http://allenmay.github.io/2015/07/29/babel-starter.html</link>
+        <guid isPermaLink="true">http://allenmay.github.io/2015/07/29/babel-starter.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>The New Dayton Web Developers Website</title>
