@@ -6,9 +6,35 @@
 </description>
     <link>http://allenmay.github.io/</link>
     <atom:link href="http://allenmay.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 29 Jul 2015 21:24:39 -0400</pubDate>
-    <lastBuildDate>Wed, 29 Jul 2015 21:24:39 -0400</lastBuildDate>
+    <pubDate>Fri, 31 Jul 2015 08:19:02 -0400</pubDate>
+    <lastBuildDate>Fri, 31 Jul 2015 08:19:02 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Testing Babel with IE8</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/babel.png&quot; /&gt;&lt;br /&gt;
+Babel is an ES6 (JavaScript 6) to ES5 (JavaScript 5) transpiler. Transpilers allow you to take advantage of unsupported features now while we wait for new browsers to support these new features.&lt;/p&gt;
+
+&lt;p&gt;I still support IE8 at work so I’m looking at Babel as an option to take advantage of ES6 functionality. My ‘babel-starter’ test is taking advantage of ES6’s &lt;a href=&quot;http://www.ecma-international.org/ecma-262/6.0/#sec-arrow-function-definitions&quot;&gt;arrow functions&lt;/a&gt; and, as you’ll see on this &lt;a href=&quot;https://kangax.github.io/compat-table/es6/&quot;&gt;ECMAScript Compatibility grid&lt;/a&gt;, it only starts to have support with &lt;a href=&quot;https://www.microsoft.com/en-us/windows/microsoft-edge&quot;&gt;Microsoft Edge&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Will my ‘babel-starter’ run on IE8? I spun up a VirtualBox of Win7/IE8 and was impressed to see ES6 code transpiled and interpreted for use by IE8.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Way to go Babel!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;So let’s see if we can get &lt;strong&gt;promises&lt;/strong&gt; to work on IE8. Will Bebel help with transpile for IE8? 
+There are limits… No, I couldn’t &lt;strong&gt;promise&lt;/strong&gt; support on IE8 with Babel.&lt;/p&gt;
+
+&lt;p&gt;In the image below, the red line is my &lt;strong&gt;promise&lt;/strong&gt; test and the green line is my &lt;strong&gt;ES6 arrow function&lt;/strong&gt; test.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/BabelProofIE8.png&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 31 Jul 2015 00:00:00 -0400</pubDate>
+        <link>http://allenmay.github.io/2015/07/31/testing-babel-with-ie8.html</link>
+        <guid isPermaLink="true">http://allenmay.github.io/2015/07/31/testing-babel-with-ie8.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Babel Starter</title>
@@ -355,32 +381,6 @@ I am now back to the basics - the Jekyll default theme.&lt;/p&gt;
         <pubDate>Sun, 07 Sep 2014 22:41:29 -0400</pubDate>
         <link>http://allenmay.github.io/blog/2014/09/07/paperball-3-jekyll-defaul-1.html</link>
         <guid isPermaLink="true">http://allenmay.github.io/blog/2014/09/07/paperball-3-jekyll-defaul-1.html</guid>
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Beginings Can Be Soo Hard!</title>
-        <description>&lt;p&gt;I am building my GitHub pages with Jekyll and exploring the differences between the GitHub site Layout templates.
-I’m also exploring the Jekyll themes and trying to incorporate what I like into the right blend of design and functionality.&lt;/p&gt;
-
-&lt;p&gt;Ha! I’ll never get this site up…&lt;/p&gt;
-
-&lt;p&gt;I’m finishing this edit and committing to GitHub so I can salvage some of my day.&lt;/p&gt;
-
-&lt;p&gt;Tomorrow morning becomes for more work on this site….&lt;/p&gt;
-
-&lt;p&gt;Until then… [commit]&lt;/p&gt;
-</description>
-        <pubDate>Sun, 07 Sep 2014 10:11:29 -0400</pubDate>
-        <link>http://allenmay.github.io/blog/2014/09/07/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://allenmay.github.io/blog/2014/09/07/welcome-to-jekyll.html</guid>
         
         <category>jekyll</category>
         

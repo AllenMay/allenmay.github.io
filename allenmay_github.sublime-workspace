@@ -1,0 +1,600 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"blog",
+				"blog"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/allen/Development/babel-starter/.deploy.js",
+			"settings":
+			{
+				"buffer_size": 136,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 247.0,
+		"last_filter": "jeky",
+		"selected_items":
+		[
+			[
+				"jeky",
+				"Jekyll: New post"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: html",
+				"Snippet: html"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"Snippet: ht",
+				"Snippet: html"
+			],
+			[
+				"colo",
+				"Color Picker"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"date",
+				"InsertDate: Custom"
+			],
+			[
+				"c",
+				"Color Picker"
+			],
+			[
+				"jekyl",
+				"Jekyll: Open draft..."
+			],
+			[
+				"jek",
+				"Jekyll: New draft"
+			],
+			[
+				"Snippet: html	",
+				"Snippet: html"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 377.0
+	},
+	"console":
+	{
+		"height": 114.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/allen/Development/allenmay.github.io"
+	],
+	"file_history":
+	[
+		"/Users/allen/Development/babel-starter/client/app/main.js",
+		"/Users/allen/Development/babel-starter/dist/app.bundle.js",
+		"/Users/allen/Development/babel-starter/client/app/utils/index.js",
+		"/Users/allen/Development/babel-starter/client/index.html",
+		"/Users/allen/Development/babel-starter/dist/index.html",
+		"/Users/allen/Development/promises/es6.html",
+		"/Users/allen/Development/promises/index.html",
+		"/Users/allen/Development/babel-starter/.gitignore",
+		"/Users/allen/Development/babel-starter/gulpfile.js",
+		"/Users/allen/Development/babel-starter/.travis.yml",
+		"/Users/allen/Development/babel-starter/Babel Starter Instructions.txt",
+		"/Users/allen/Development/allenmay.github.io/_posts/2009-06-01-aspadrotator-and-xml.md",
+		"/Users/allen/Development/allenmay.github.io/_posts/2009-06-22-ubuntu-vmware-install.md",
+		"/Users/allen/Development/allenmay.github.io/_posts/2009-06-23-aspnet-c--finding-that-darn-control.md",
+		"/Users/allen/Development/allenmay.github.io/_posts/2009-06-24-disregard-license-logging-service-event-errors.md",
+		"/Users/allen/Development/allenmay.github.io/_posts/2009-06-24-php-inline-code-not-compiling.md",
+		"/Users/allen/Development/allenmay.github.io/_posts/2009-07-01-disable-windows-desktop-search.md",
+		"/Users/allen/Development/allenmay.github.io/_posts/2009-07-30-centos--lamp-quick-and-easy-config.md",
+		"/Users/allen/Development/allenmay.github.io/_posts/2009-08-01-drupal-613-bumps.md",
+		"/Users/allen/Development/allenmay.github.io/_posts/2009-08-24-an-oldy-but-goody.md",
+		"/Users/allen/Development/allenmay.github.io/_posts/2009-09-02-vmware-throwing-multiple-vmauthd-event-viewer-errors.md",
+		"/Users/allen/Development/allenmay.github.io/_posts/2009-09-02-ifilter--search-on-steriods.md",
+		"/Users/allen/Development/allenmay.github.io/_posts/2009-09-12-windows-xp-fast-user-switching-disabled-after-vmware-install.md",
+		"/Users/allen/Development/allenmay.github.io/_posts/2011-04-11-tinymce.md",
+		"/Users/allen/Development/allenmay.github.io/_posts/2010-12-01-php-dump--various-php-snippets-of-interest.md",
+		"/Users/allen/Development/allenmay.github.io/_posts/2010-03-19-outlook-wont-start.md",
+		"/Users/allen/Development/allenmay.github.io/_posts/2010-02-25-sqlserveragent-startup-problem.md",
+		"/Users/allen/Development/allenmay.github.io/_posts/2010-01-02-note-tracking-document-management.md",
+		"/Users/allen/Development/allenmay.github.io/_posts/2015-07-29-windows-7-fun-stuff.md",
+		"/Users/allen/Development/allenmay.github.io/_posts/2009-11-06-quickly-launch-a-folder-as-a-website-in-visual-studio.md",
+		"/Users/allen/Development/allenmay.github.io/_posts/2013-11-14-daily-thorn---laravel-up-and-running.md",
+		"/Users/allen/Development/allenmay.github.io/_posts/2012-10-20-codeigniter---1st-tutorial-issues.md",
+		"/Users/allen/Development/allenmay.github.io/_posts/2013-11-15-daily-thorn---laravel-again.md",
+		"/Users/allen/Development/allenmay.github.io/_posts/2015-07-29-babel-starter.md",
+		"/Users/allen/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
+		"/Users/allen/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Default (OSX).sublime-keymap",
+		"/Users/allen/Library/Application Support/Sublime Text 3/Packages/Jekyll/Default (OSX).sublime-keymap",
+		"/Users/allen/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/allen/Development/allenmay.github.io/_layouts/post.html",
+		"/Users/allen/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/allen/Development/Grids/tylertate-semantic.gs-c2aa77c/examples/responsive/responsive.html",
+		"/Users/allen/Development/Grids/tylertate-semantic.gs-c2aa77c/examples/fluid/fluid.html",
+		"/Users/allen/Development/gulp-starter/build/patterns/pages/_pattern-listing.html",
+		"/Users/allen/Development/daytonweb.github.io/.nojekyll",
+		"/Users/allen/Development/gulp-starter/src/assets/.nojekyll",
+		"/Users/allen/Development/gulp-starter/build/grunticon/preview.html",
+		"/Users/allen/Development/gulp-starter/build/grunticon/icons.fallback.css",
+		"/Users/allen/Desktop/1Logo Dayton Web Developers - 400.png",
+		"/Users/allen/Development/gulp-starter/src/assets/index.html",
+		"/Users/allen/Development/gulp-starter/src/patterns/pages/pattern-listing.hbs",
+		"/Users/allen/Development/gulp-starter/build/patterns/pages/pattern-listing.html",
+		"/Users/allen/Development/daytonweb.github.io/index.html",
+		"/Users/allen/Development/daytonweb.github.io/src/patterns/pages/_pattern-listing.hbs",
+		"/Users/allen/Development/daytonweb.github.io/build/patterns/pages/_pattern-listing.html",
+		"/Users/allen/Development/daytonweb.github.io/src/patterns/pages/_1pattern-listing.hbs",
+		"/Users/allen/Development/daytonweb.github.io/gulpfile.coffee",
+		"/Users/allen/Development/daytonweb.github.io/src/assets/index.html",
+		"/Users/allen/Development/daytonweb.github.io/build/index.html",
+		"/Users/allen/Development/daytonweb.github.io/tasks/assets.coffee",
+		"/Users/allen/Development/allenmay.github.io/_sass/bootstrap/_type.scss",
+		"/Users/allen/Development/allenmay.github.io/_sass/_base.scss",
+		"/Users/allen/Documents/Resume/Information Sent to Sparkbox 7:20:2015.txt",
+		"/Users/allen/Development/allenmay.github.io/_dwd/founders-story.md",
+		"/Users/allen/Desktop/Untitled.svg",
+		"/Users/allen/Development/allenmay.github.io/_includes/head.html",
+		"/Users/allen/Development/allenmay.github.io/index.html",
+		"/Users/allen/Development/allenmay.github.io/_includes/header.html",
+		"/Users/allen/Development/blah/index.html",
+		"/Users/allen/Development/blah/blah.html",
+		"/Users/allen/Documents/Meetups/Sponsor Template.txt",
+		"/Users/allen/Development/CompuNet/cod/index.php",
+		"/Users/allen/Development/CompuNet/cod/CBTimes.txt",
+		"/Users/allen/Development/CompuNet/cod/CityOfDayton.php",
+		"/Users/allen/Development/CompuNet/cod/style/style.css",
+		"/Users/allen/Development/CompuNet/cod/locations/Airport.php",
+		"/Users/allen/Development/CompuNet/cod/locations/CityHall.php",
+		"/Users/allen/Development/CompuNet/cod/locations/Ottawa.php",
+		"/Users/allen/Development/CompuNet/cod/locations/Ottawa2.php",
+		"/Users/allen/Development/CompuNet/cod/script/codjscript.js",
+		"/Users/allen/Development/CompuNet/cod/locations/Water.php",
+		"/Users/allen/Development/CompuNet/cod/OTT_ORIGINALTIMES.txt",
+		"/Users/allen/Development/CompuNet/cod/OTT2_ORIGINALTIMES.txt",
+		"/Users/allen/Development/CompuNet/cod/CB_ORIGINALTIMES.txt",
+		"/Users/allen/Development/CompuNet/cod/OTTTimes.txt",
+		"/Users/allen/Development/CompuNet/cod/OTT2Times.txt",
+		"/Users/allen/Development/CompuNet/cod/DIATimes.txt",
+		"/Users/allen/Development/allenmay.github.io/css/main.scss",
+		"/Users/allen/Development/allenmay.github.io/_sass/_bootstrap.scss",
+		"/Users/allen/Development/allenmay.github.io/_site/css/main.css",
+		"/Users/allen/Development/allenmay.github.io/_sass/bootstrap/mixins/_vendor-prefixes.scss",
+		"/Users/allen/Development/allenmay.github.io/.gitignore",
+		"/Users/allen/Development/allenmay.github.io/_layouts/default.html",
+		"/Users/allen/Development/allenmay.github.io/_dwd/getting-to-know-your-new-client.md",
+		"/Users/allen/Development/allenmay.github.io/sitemap.xml",
+		"/Users/allen/Development/allenmay.github.io/TimeClockTesting.js",
+		"/Users/allen/Development/blah/_includes/head.html",
+		"/Users/allen/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/allen/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/allen/Library/Application Support/Sublime Text 3/Packages/User/Diffy.sublime-settings",
+		"/Users/allen/Library/Application Support/Sublime Text 3/Packages/Diffy/Diffy.sublime-settings",
+		"/Users/allen/Downloads/react-0.13.3/examples/quadratic/index.html",
+		"/Users/allen/Development/allenmay.github.io/_posts/2015-06-07-the-new-dwd-website.md",
+		"/Users/allen/Development/allenmay.github.io/_config.yml",
+		"/Users/allen/Development/allenmay.github.io/_dwd/new-client-strategies.md",
+		"/Users/allen/Development/allenmay.github.io/_posts/2015-06-21-explore.md",
+		"/Users/allen/Development/allenmay.github.io/_posts/2014-09-08-paperball-3-jekyll-defaul-1.md",
+		"/Users/allen/Development/allenmay.github.io/DWDWebsite.md",
+		"/Users/allen/Development/allenmay.github.io/_site/DWD/index.html",
+		"/Users/allen/Development/allenmay.github.io/DWDWebsite.not",
+		"/Users/allen/Development/allenmay.github.io/_posts/2014-09-07-welcome-to-jekyll.md",
+		"/Users/allen/Development/allenmay.github.io/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/minimatch/node_modules/brace-expansion/test/cases.txt",
+		"/Users/allen/Development/allenmay.github.io/node_modules/gulp/node_modules/vinyl-fs/node_modules/graceful-fs/fs.js",
+		"/Users/allen/Development/allenmay.github.io/WordPressWorkflow/test/qunit-1.12.0.js",
+		"/Users/allen/Development/allenmay.github.io/_posts/2015-06-09-getting-to-know-your-new-client.md",
+		"/Users/allen/Development/allenmay.github.io/_layouts/dwd.html",
+		"/Users/allen/Development/allenmay.github.io/_posts/2015-06-24-new-client-strategies.md",
+		"/Users/allen/Development/Bootstrap/css/bootstrap.min.css",
+		"/Users/allen/Library/Application Support/Sublime Text 3/Packages/InsertDate/Default (OSX).sublime-keymap",
+		"/Users/allen/Library/Application Support/Sublime Text 3/Packages/InsertDate/insert_date.sublime-settings",
+		"/Users/allen/Library/Application Support/Sublime Text 3/Packages/InsertDate/README.md",
+		"/Users/allen/Library/Application Support/Sublime Text 3/Packages/User/insert_date.sublime-settings",
+		"/Users/allen/Development/allenmay.github.io/_posts/2015-06-17-the-new-dwd-website.md",
+		"/Users/allen/Development/allenmay.github.io/_posts/2015-06-09-getting-to-know-your-new-client.markdown",
+		"/Users/allen/Development/allenmay.github.io/DWDWebsite.markdown",
+		"/Users/allen/Development/allenmay.github.io/_posts/2014-09-18-open-the-window-for-some-fresh-air.markdown",
+		"/Users/allen/Development/allenmay.github.io/_posts/2014-09-08-paperball-3-jekyll-defaul-1.markdown",
+		"/Users/allen/Development/allenmay.github.io/_posts/2014-09-07-welcome-to-jekyll.markdown",
+		"/Users/allen/Development/allenmay.github.io/_posts/2014-10-27-the-best-intentions.markdown"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/allen/Development/allenmay.github.io/",
+			"/Users/allen/Development/allenmay.github.io/_sass/bootstrap",
+			"/Users/allen/Development/allenmay.github.io",
+			"<open folders>",
+			"",
+			"1",
+			"/Users/allen/Development/EmberJS",
+			"/Users/allen/Development/Code School/Warming up with Ember",
+			"/Users/allen/Development/allenmay.github.io",
+			"",
+			"/Users/allen/Development/kabam-fast-and-furious",
+			"/Users/allen/Development/starter-kit-1.10.0,/Users/allen/Downloads/kabam-fast-and-furious-master",
+			"/Users/allen/Development/starter-kit-1.10.0",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"promisecount",
+			"testPromise",
+			"folder",
+			"’",
+			"‘",
+			"`",
+			"browserify",
+			"‘",
+			"’",
+			"alistapart",
+			"elefont",
+			"email",
+			"index",
+			"dest",
+			"gulp-start",
+			"__",
+			" __",
+			"blockquote",
+			"**",
+			" **",
+			"quote",
+			"#",
+			"</strong>",
+			"#>",
+			"<strong",
+			"\\n",
+			"-A",
+			"-A\\n",
+			" | ",
+			"<p class=\"p3\">",
+			"<p class=\"p1\">",
+			"<br />",
+			"\\\"",
+			"<br />",
+			"\\\"",
+			"<br />",
+			"allen",
+			"2014",
+			"am",
+			"-",
+			"pm",
+			"-A",
+			"am",
+			"-B",
+			"July 30th ",
+			"-A",
+			"\\n",
+			" ",
+			"\\n",
+			"AM",
+			"PM",
+			"-B",
+			"-A",
+			"\\n",
+			"-A",
+			"\\n",
+			"  ",
+			"\\n",
+			"\\n ",
+			" \\n",
+			"-A",
+			"\\n",
+			"20",
+			"\\n",
+			"05",
+			"DXImageTransform",
+			"trans",
+			"transform-origin",
+			"transform",
+			"TimeClockTe",
+			"site-title",
+			"Loop",
+			"demoLoop",
+			"sequences",
+			"demoloop",
+			"loop",
+			"html",
+			"<head>\n  <meta charset=\"utf-8\">\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n\n  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>\n  <meta name=\"description\" content=\"{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}\">\n\n  <link rel=\"stylesheet\" href=\"{{ \"/css/main.css\" | prepend: site.baseurl }}\">\n  <link rel=\"canonical\" href=\"{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}\">\n  <link rel=\"alternate\" type=\"application/rss+xml\" title=\"{{ site.title }}\" href=\"{{ \"/feed.xml\" | prepend: site.baseurl | prepend: site.url }}\" />\n</head>\n",
+			"<head>\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\n    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>\n    <meta name=\"description\" content=\"{{ site.description }}\">\n	<script type=\"text/javascript\" src=\"//d2zah9y47r7bi2.cloudfront.net/releases/current/tracker.js\" data-token=\"cd0a858d4def4806b1b35462c41a8053\"></script>\n    <link href='http://fonts.googleapis.com/css?family=Vollkorn' rel='stylesheet' type='text/css'>\n\n    <link rel=\"stylesheet\" href=\"{{ \"/css/main.css\" | prepend: site.baseurl }}\">\n    <link rel=\"canonical\" href=\"{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}\">\n</head>\n",
+			"}}\">\n",
+			"permalink",
+			"site",
+			"_site",
+			"categories",
+			"blog",
+			"post",
+			"_post",
+			"post",
+			"_post",
+			".scss",
+			"main.css",
+			"main\\.scss",
+			"main.scss",
+			"main",
+			"main.scss",
+			"iso",
+			"em",
+			" | ",
+			"position",
+			"icon",
+			"' . $i . '",
+			"link",
+			"Auto",
+			"adventurebook",
+			"fixture",
+			"resume",
+			"remote",
+			"Click to edit certification authority followed by license number",
+			"Click to edit certification name",
+			"\\n",
+			"`",
+			"\\n",
+			"l",
+			"\\n",
+			"meetup.com",
+			"Julie",
+			"17776311",
+			".com",
+			"base.css",
+			"css",
+			"page-heading",
+			"h1",
+			"margin-bottom",
+			"/ 2",
+			"spacing-unit",
+			"margin-bottom",
+			"page-heading",
+			"15"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"[/i]",
+			" [i]",
+			"</strong>",
+			" <strong>",
+			"**",
+			"#",
+			"\\nJuly 23rd ",
+			"-C",
+			"-A\\nZZ",
+			"-A\\n1",
+			", ",
+			"",
+			"<br>",
+			"\"",
+			"<br>",
+			"\"",
+			"<br>",
+			"pm",
+			"am-",
+			"am",
+			"pm-A",
+			"pm",
+			"am-B",
+			"August 13th ",
+			"-B",
+			"\\nAugust 13th ",
+			"",
+			"-A\\n",
+			"am",
+			"pm",
+			"-C",
+			"-B",
+			"-A\\n",
+			"-B",
+			"-A\\n",
+			" ",
+			"\\nJuly 23rd  ",
+			"\\n ",
+			"-B ",
+			"\\nJuly 28th ",
+			"-A\\n",
+			" - A\\n",
+			"05",
+			"  ",
+			"",
+			" | ",
+			"\\n}\\n\\n",
+			"{\\n  ",
+			"\\n}\\n",
+			"</div>",
+			">\\n<",
+			"\\n</p>\\n<p>\\n",
+			"\\n<",
+			"\\n\"",
+			"\\n@",
+			"</li>\\n<li>",
+			"\\n",
+			"\\n* ",
+			""
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/allen/Development/babel-starter/.deploy.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 136,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								29,
+								136
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 168.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 422.0
+	},
+	"pinned_build_system": "",
+	"project": "allenmay_github.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"packa",
+				"kabam-fast-and-furious/package.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 239.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
