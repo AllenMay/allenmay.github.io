@@ -16,7 +16,7 @@ Will my 'babel-starter' run on IE8? I spun up a VirtualBox of Win7/IE8 and was i
 **Way to go Babel!**
 
 So let's see if we can get **promises** to work on IE8. Will Bebel help with transpile for IE8? 
-There are limits... No, I couldn't **promise** support on IE8 with Babel.
+There are limits... No, I couldn't get **promise** support on IE8 with Babel.
 
 In the image below, the red line is my **promise** test and the green line is my **ES6 arrow function** test.
 
