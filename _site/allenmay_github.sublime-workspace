@@ -12,10 +12,17 @@
 	"buffers":
 	[
 		{
-			"file": "/Users/allen/Development/babel-starter/.deploy.js",
 			"settings":
 			{
-				"buffer_size": 136,
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_posts/2015-07-31-testing-babel-with-ie8.md",
+			"settings":
+			{
+				"buffer_size": 1333,
 				"line_ending": "Unix"
 			}
 		}
@@ -88,7 +95,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 377.0
+		"width": 467.0
 	},
 	"console":
 	{
@@ -109,10 +116,12 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/allen/Development/allenmay.github.io"
+		"/Users/allen/Development/allenmay.github.io",
+		"/Users/allen/Development/allenmay.github.io/images"
 	],
 	"file_history":
 	[
+		"/Users/allen/Development/allenmay.github.io/.gitignore",
 		"/Users/allen/Development/babel-starter/client/app/main.js",
 		"/Users/allen/Development/babel-starter/dist/app.bundle.js",
 		"/Users/allen/Development/babel-starter/client/app/utils/index.js",
@@ -203,7 +212,6 @@
 		"/Users/allen/Development/allenmay.github.io/_sass/_bootstrap.scss",
 		"/Users/allen/Development/allenmay.github.io/_site/css/main.css",
 		"/Users/allen/Development/allenmay.github.io/_sass/bootstrap/mixins/_vendor-prefixes.scss",
-		"/Users/allen/Development/allenmay.github.io/.gitignore",
 		"/Users/allen/Development/allenmay.github.io/_layouts/default.html",
 		"/Users/allen/Development/allenmay.github.io/_dwd/getting-to-know-your-new-client.md",
 		"/Users/allen/Development/allenmay.github.io/sitemap.xml",
@@ -477,31 +485,58 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/Users/allen/Development/babel-starter/.deploy.js",
-					"semi_transient": true,
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 136,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								29,
-								136
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
-						"translation.x": 168.0,
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_posts/2015-07-31-testing-babel-with-ie8.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1333,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								941,
+								941
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jekyll/Syntaxes/Markdown (Jekyll).tmLanguage"
+						},
+						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
