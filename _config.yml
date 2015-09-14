@@ -1,5 +1,5 @@
 # Site settings
-title: Allen May's GitHub Page
+title: Allen May GitHub Page
 email: AllenHMay@gmail.com    
 # description: > # this means to ignore newlines until "baseurl:"
 #   Write an awesome description for your new site here. You can edit this
@@ -10,8 +10,14 @@ description: > # this means to ignore newlines until "baseurl:"
     exploring a balance of both deep and wide topics of web development.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://allenmay.github.io" # the base hostname & protocol for your site
+
 twitter_username: AllenHMay
+
 github_username:  allenmay
+
+dribbble_username:  AllenHMay
+
+linkedin_username:  AllenHMay
 
 # Build settings
 markdown: kramdown
@@ -20,3 +26,4 @@ collections:
   dwd:
     output: true
     permalinke: /dwd/:path/
+
