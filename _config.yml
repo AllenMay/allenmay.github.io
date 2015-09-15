@@ -1,5 +1,5 @@
 # Site settings
-title: Allen May GitHub Page
+title: Allen May
 email: AllenHMay@gmail.com    
 # description: > # this means to ignore newlines until "baseurl:"
 #   Write an awesome description for your new site here. You can edit this
@@ -20,6 +20,8 @@ dribbble_username:  AllenHMay
 linkedin_username:  AllenHMay
 
 codepen_username:  AllenMay
+
+facebook_username:  allen.may.98
 
 # Build settings
 markdown: kramdown
