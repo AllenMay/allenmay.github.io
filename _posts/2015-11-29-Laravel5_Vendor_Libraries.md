@@ -12,6 +12,6 @@ I've started exploring the world of Laravel and decided to create a reference to
 
 [Download the Laravel 5 Vendor Libraries PDF] [laravel]
 
-Let me know if need to make edits to this file.
+Let me know if I need to make edits to this file.
 
 [laravel]: http://allenmay.github.io/docs/Laravel%20Vendor%20Libraries.pdf
