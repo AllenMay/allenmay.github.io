@@ -7,6 +7,15 @@ layout: default
   <h1 class="page-heading">Posts</h1>
 
   <ul class="post-list">
+    <li>
+      <span class="post-meta">June 14, 2017</span>
+      <span class="post-meta">Medium Blog</span>
+
+        <h2>
+          <a class="post-link" href="https://medium.com/@allenhmay_74590/a-convenient-coincidence-98dabc09fb41">A Convenient Coincidence</a>
+        </h2>
+      </li>
+    
     {% for post in site.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</span>
