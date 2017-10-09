@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url><loc>http://allenmay.github.io/</loc><lastmod>2015-09-11T07:17:02+00:00</lastmod><changefreq>weekly</changefreq><priority>1.00</priority></url>
+<url><loc>http://allenmay.github.io/about/</loc><lastmod>2015-09-11T07:17:02+00:00</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+<url><loc>http://allenmay.github.io/2015/08/05/presentation---dayton-web-developers---babel-and-es6.html</loc><lastmod>2015-09-11T07:17:02+00:00</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+<url><loc>http://allenmay.github.io/2015/07/31/testing-babel-with-ie8.html</loc><lastmod>2015-09-11T07:17:02+00:00</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+<url><loc>http://allenmay.github.io/2015/07/29/babel-starter.html</loc><lastmod>2015-09-11T07:17:02+00:00</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+<url><loc>http://allenmay.github.io/2015/06/26/presentation---business-intelligence-special-interest-group-sig.html</loc><lastmod>2015-09-11T07:17:02+00:00</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+<url><loc>http://allenmay.github.io/blog/2015/06/07/the-new-dwd-website.html</loc><lastmod>2015-09-11T07:17:02+00:00</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+<url><loc>http://allenmay.github.io/blog/2015/01/06/getting-real-enthusiasm.html</loc><lastmod>2015-09-11T07:17:02+00:00</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+<url><loc>http://allenmay.github.io/blog/2014/11/19/simple-font-wireup.html</loc><lastmod>2015-09-11T07:17:02+00:00</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+<url><loc>http://allenmay.github.io/blog/2014/11/12/wordpress-meetup-presentation.html</loc><lastmod>2015-09-11T07:17:02+00:00</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+<url><loc>http://allenmay.github.io/blog/2014/10/31/some-projects-to-consider.html</loc><lastmod>2015-09-11T07:17:02+00:00</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+<url><loc>http://allenmay.github.io/blog/2014/10/27/the-best-intentions.html</loc><lastmod>2015-09-11T07:17:02+00:00</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+<url><loc>http://allenmay.github.io/blog/2014/09/18/open-the-window-for-some-fresh-air.html</loc><lastmod>2015-09-11T07:17:02+00:00</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+<url><loc>http://allenmay.github.io/blog/2014/09/08/paperball-3-jekyll-defaul-1.html</loc><lastmod>2015-09-11T07:17:02+00:00</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+<url><loc>http://allenmay.github.io/blog/2014/09/07/welcome-to-jekyll.html</loc><lastmod>2015-09-11T07:17:02+00:00</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+<url><loc>http://allenmay.github.io/2013/11/15/daily-thorn---laravel-again.html</loc><lastmod>2015-09-11T07:17:02+00:00</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+<url><loc>http://allenmay.github.io/2013/11/14/daily-thorn---laravel-up-and-running.html</loc><lastmod>2015-09-11T07:17:02+00:00</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+<url><loc>http://allenmay.github.io/2012/10/20/codeigniter---1st-tutorial-issues.html</loc><lastmod>2015-09-11T07:17:02+00:00</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+<url><loc>http://allenmay.github.io/2011/04/11/tinymce.html</loc><lastmod>2015-09-11T07:17:02+00:00</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+<url><loc>http://allenmay.github.io/2010/12/01/php-dump--various-php-snippets-of-interest.html</loc><lastmod>2015-09-11T07:17:02+00:00</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+<url><loc>http://allenmay.github.io/2010/03/19/outlook-wont-start.html</loc><lastmod>2015-09-11T07:17:02+00:00</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+<url><loc>http://allenmay.github.io/2010/02/25/sqlserveragent-startup-problem.html</loc><lastmod>2015-09-11T07:17:02+00:00</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+<url><loc>http://allenmay.github.io/2010/01/02/note-tracking-document-management.html</loc><lastmod>2015-09-11T07:17:02+00:00</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+<url><loc>http://allenmay.github.io/2009/11/23/windows-7-fun-stuff.html</loc><lastmod>2015-09-11T07:17:02+00:00</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+<url><loc>http://allenmay.github.io/2009/11/06/quickly-launch-a-folder-as-a-website-in-visual-studio.html</loc><lastmod>2015-09-11T07:17:02+00:00</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+<url><loc>http://allenmay.github.io/2009/09/12/windows-xp-fast-user-switching-disabled-after-vmware-install.html</loc><lastmod>2015-09-11T07:17:02+00:00</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+<url><loc>http://allenmay.github.io/2009/09/02/vmware-throwing-multiple-vmauthd-event-viewer-errors.html</loc><lastmod>2015-09-11T07:17:02+00:00</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+<url><loc>http://allenmay.github.io/2009/09/02/ifilter--search-on-steriods.html</loc><lastmod>2015-09-11T07:17:02+00:00</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+<url><loc>http://allenmay.github.io/2009/08/24/an-oldy-but-goody.html</loc><lastmod>2015-09-11T07:17:02+00:00</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+<url><loc>http://allenmay.github.io/2009/08/01/drupal-613-bumps.html</loc><lastmod>2015-09-11T07:17:02+00:00</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+<url><loc>http://allenmay.github.io/2009/07/30/centos--lamp-quick-and-easy-config.html</loc><lastmod>2015-09-11T07:17:02+00:00</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+<url><loc>http://allenmay.github.io/2009/07/01/disable-windows-desktop-search.html</loc><lastmod>2015-09-11T07:17:02+00:00</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+<url><loc>http://allenmay.github.io/2009/06/24/php-inline-code-not-compiling.html</loc><lastmod>2015-09-11T07:17:02+00:00</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+<url><loc>http://allenmay.github.io/2009/06/24/disregard-license-logging-service-event-errors.html</loc><lastmod>2015-09-11T07:17:02+00:00</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+<url><loc>http://allenmay.github.io/2009/06/23/aspnet-c--finding-that-darn-control.html</loc><lastmod>2015-09-11T07:17:02+00:00</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+<url><loc>http://allenmay.github.io/2009/06/22/ubuntu-vmware-install.html</loc><lastmod>2015-09-11T07:17:02+00:00</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+<url><loc>http://allenmay.github.io/2009/06/01/aspadrotator-and-xml.html</loc><lastmod>2015-09-11T07:17:02+00:00</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+<url><loc>http://allenmay.github.io/dwd/getting-to-know-your-new-client.html</loc><lastmod>2015-09-11T07:17:02+00:00</lastmod><changefreq>weekly</changefreq><priority>0.69</priority></url>
+<!-- Generated by www.web-site-map.com -->
+</urlset>

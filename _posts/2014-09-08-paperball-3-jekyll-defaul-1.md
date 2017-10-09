@@ -68,13 +68,13 @@ You win for now **Jekyll default style**, but I'm coming back and when I do...
 **index.MERLOT:** `<meta name="viewport" content="width=640">`  
 **head.JEKYLL:**  `<meta name="viewport" content="width=device-width">`
 
-**index.MERLOT:* `n/a`  
+**index.MERLOT:** `n/a`  
 **head.JEKYLL:**  `<meta name="description" content="{{ site.description }}">`
 
 **index.MERLOT:** `<link rel="stylesheet" href="stylesheets/core.css" media="screen">`  
                   `<link rel="stylesheet" href="stylesheets/mobile.css" media="handheld, only screen and (max-device-width:640px)">`  
                   `<link rel="stylesheet" href="stylesheets/pygment_trac.css">`  
-**head.JEKYLL:**  `<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.`baseurl }}">
+**head.JEKYLL:**  `<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">`
 
 **index.MERLOT:** `<script type="text/javascript" src="javascripts/modernizr.js"></script>`  
                   `<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>`  
