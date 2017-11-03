@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Posts</h1>
+
+  <ul class="post-list">
+    <li>
+      <span class="post-meta">June 14, 2017</span>
+      <span class="post-meta">Medium Blog</span>
+      <h2><a class="post-link" href="https://medium.com/@allenhmay_74590/a-convenient-coincidence-98dabc09fb41">A Convenient Coincidence</a></h2>
+      </li>
+    
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>
+<!-- <a class="twitter-timeline" href="https://twitter.com/AllenHMay" data-widget-id="643348906730983425">Tweets by @AllenHMay</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> -->

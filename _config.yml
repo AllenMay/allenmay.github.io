@@ -1,0 +1,33 @@
+# Site settings
+title: Allen May
+email: AllenHMay@gmail.com    
+# description: > # this means to ignore newlines until "baseurl:"
+#   Write an awesome description for your new site here. You can edit this
+#   line in _config.yml. It will appear in your document head meta (for
+#   Google search results) and in your feed.xml site description.
+description: > # this means to ignore newlines until "baseurl:"
+    Struggling between breadth and depth of knowledge, this site is devoted to 
+    exploring a balance of both deep and wide topics of web development.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://allenmay.github.io" # the base hostname & protocol for your site
+
+twitter_username: AllenHMay
+
+github_username:  allenmay
+
+dribbble_username:  AllenHMay
+
+linkedin_username:  AllenHMay
+
+codepen_username:  AllenMay
+
+facebook_username:  allen.may.98
+
+# Build settings
+markdown: kramdown
+
+collections:
+  dwd:
+    output: true
+    permalinke: /dwd/:path/
+
