@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50" height="50" version="1.1" viewBox="-20 -20 100 100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<circle cx="26.732" cy="26.732" r="44" fill="#ebebeb" stroke="#000" stroke-width="2px"/>
+<path id="c" transform="translate(0)" d="m51.732 26.732c0 13.807-11.193 25-25 25" fill="#ebebeb" stroke="#000" stroke-width="2px"/>
+<path id="a" transform="translate(0)" d="m26.732 51.732c-13.807 0-25-11.193-25-25" fill="#ebebeb" stroke="#000" stroke-width="2px"/>
+<path id="b" transform="translate(0)" d="m1.732 26.732c0-13.807 11.193-25 25-25" fill="#ebebeb" stroke="#000" stroke-width="2px"/>
+<path id="d" transform="translate(0)" d="m26.732 1.732c13.807 0 25 11.193 25 25" fill="#ebebeb" stroke="#000" stroke-width="2px"/>
+<animateTransform fill="freeze" attributeName="transform" attributeType="XML" begin="0s" dur="10s" from="0 40 40" xlink:href="#c" repeatCount="indefinite" to="360 40 40" type="rotate"/>
+<animateTransform fill="freeze" attributeName="transform" attributeType="XML" begin="0s" dur="10s" from="0 15 40" xlink:href="#a" repeatCount="indefinite" to="360 15 40" type="rotate"/>
+<animateTransform fill="freeze" attributeName="transform" attributeType="XML" begin="0s" dur="10s" from="0 15 15" xlink:href="#b" repeatCount="indefinite" to="360 15 15" type="rotate"/>
+<animateTransform fill="freeze" attributeName="transform" attributeType="XML" begin="0s" dur="10s" from="0 40 15" xlink:href="#d" repeatCount="indefinite" to="360 40 15" type="rotate"/>
+</svg>
