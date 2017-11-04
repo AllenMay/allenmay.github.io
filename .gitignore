@@ -1,0 +1,7 @@
+_site/
+.sass-cache/
+*.scssc
+style-prototype
+node_modules
+TimeClockTesting.js
+allenmay_github.sublime-project
