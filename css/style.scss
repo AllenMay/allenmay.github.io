@@ -65,6 +65,29 @@ body {
   }
 }
 
+.page-content .wrapper {
+  display: flex;
+
+}
+
+.external .post-list {
+  background: rgba(0,0,0,0.2);
+}
+
+.oldpost {
+  background: rgba(0,0,0,0.2);
+  span:first-of-type:after {
+    // display: block;
+    color: rgba(0,0,0,0.2);
+    content: "Older post";
+    background: rgba(255,255,255,0.5);
+    width: 20%;
+    margin: 5px 10px;
+    padding: 0 2%;
+  }
+}
+
+
 .site-footer {
   background: rgba(0,0,0,0.2);
 }
