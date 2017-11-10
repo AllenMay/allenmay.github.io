@@ -15,9 +15,9 @@ I'll post back to this post, with timestamp every time I have an idea for a proj
   * Add more useable tools to the IntrAnet
 
 
-* __10/31/2014 - Use the Javascript from a previous project (payment office) do do the following:__
+* __10/31/2014 - Use the JavaScript from a previous project (payment office) do do the following:__
   * Create Jasmine testing
-  * Use pre-compilers for Javascript and CSS
+  * Use pre-compilers for JavaScript and CSS
   * Document/blog all I learned
 
 

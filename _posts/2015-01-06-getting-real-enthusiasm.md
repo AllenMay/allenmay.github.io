@@ -2,7 +2,7 @@
 layout: post
 title:  "Getting Real - Enthusiasm"
 date:   2015-01-06 05:49:29
-categories: blog
+categories: commentary
 ---
 {{ site.baseurl }}  I have been reading "[Getting Real][1]" by [@37Signals][2] and came across content that describes me well.
 

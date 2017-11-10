@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Laravel 5 Vendor Libraries
-categories: []
+categories: [resource]
 tags: []
 published: True
 

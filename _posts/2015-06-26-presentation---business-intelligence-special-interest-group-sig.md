@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Presentation - Business Intelligence Special Interest Group (SIG)
-categories: []
+categories: [presentation]
 tags: []
 published: True
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Presentation - Dayton Web Developers - Babel and ES6
-categories: []
+categories: [presentation]
 tags: []
 published: True
 
@@ -17,8 +17,8 @@ Thankfully Ricardo Zea and Bryan Braun were there to help. Bryan was also presen
 
 ## My Presentation ##
 
-My topic, titled "**[Create a Babel stack to transpile/polyfill ES6 code] [mypresent]**", was on a skeleton build that uses Babel to transpile ES2015 code into ES5 (older Javascript). 
-This was a great topic because **Babel** allows you to embrace the newer Javascript while using web browsers that don't support the newer Javascript. I also wanted to let the group know that this small build could be used in a variety of ways- as a test bed, as a new build or a means to get the transpiled Javascript.   
+My topic, titled "**[Create a Babel stack to transpile/polyfill ES6 code] [mypresent]**", was on a skeleton build that uses Babel to transpile ES2015 code into ES5 (older JavaScript). 
+This was a great topic because **Babel** allows you to embrace the newer JavaScript while using web browsers that don't support the newer JavaScript. I also wanted to let the group know that this small build could be used in a variety of ways- as a test bed, as a new build or a means to get the transpiled JavaScript.   
 
 This is the second time I've had a chance to present in front of the Dayton Web Developers group. As an organizer, I feel more compelled to get in front and present to the group. How can I ask them step up while I'm never do?  
 

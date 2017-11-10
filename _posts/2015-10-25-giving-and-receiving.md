@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Giving and Receiving
-categories: []
+categories: [report]
 tags: []
 published: True
 

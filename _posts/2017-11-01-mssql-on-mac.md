@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MSSQL on Mac
-categories: []
+categories: [presentation]
 tags: []
 published: True
 

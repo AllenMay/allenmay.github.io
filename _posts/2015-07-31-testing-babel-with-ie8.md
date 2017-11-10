@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Testing Babel with IE8
-categories: []
+categories: [learning]
 tags: []
 published: True
 

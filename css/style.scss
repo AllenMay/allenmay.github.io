@@ -38,6 +38,10 @@ path {
 
 // Our variables
 $base-font-family: 'Vollkorn', serif, Helvetica, Arial, sans-serif;
+$halfblack: rgba(0,0,0,0.5);
+$halfwhite: rgba(255,255,255,0.5);
+$quarterblack: rgba(0,0,0,0.2);
+$quarterwhite: rgba(255,255,255,0.2);
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
@@ -71,15 +75,27 @@ body {
 }
 
 .external .post-list {
-  background: rgba(0,0,0,0.2);
+  background: $quarterblack;
+}
+
+.post-meta {
+  color: $quarterblack;
+}
+
+.post-list {
+  list-style: none;
+  
+  h2 {
+  margin: 0;
+}
 }
 
 .oldpost {
-  background: rgba(0,0,0,0.2);
-  span:first-of-type:after {
+  background: $quarterblack;
+  span:first-of-type:before {
     // display: block;
-    color: rgba(0,0,0,0.2);
-    content: "Older post";
+    color: $quarterblack;
+    content: "Archive";
     background: rgba(255,255,255,0.5);
     width: 20%;
     margin: 5px 10px;
@@ -89,7 +105,7 @@ body {
 
 
 .site-footer {
-  background: rgba(0,0,0,0.2);
+  background: $quarterblack;
 }
 .footer-col-wrapper {
   display: flex;

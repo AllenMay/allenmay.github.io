@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Babel Starter
-categories: []
+categories: [learning]
 tags: []
 published: True
 
