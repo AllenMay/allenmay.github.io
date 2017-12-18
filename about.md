@@ -10,8 +10,6 @@ You can find the source code for the Jekyll new theme at: [github.com/jglovier/j
 
 You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll) -->
 
-(Additional testing content can be found on my "<a href="http://maygourmet.com/">May Gourmet</a>" hosted server.)  
-
 Allen has been part of the Information Technology / Computer Systems Engineering field for over 20 years. He has a wide variety of experience in networking, enterprise architecture support, database development and database administration.  
 
 He has a broad IT background but always comes back to his passion - working with modern web technologies that serve client or public interest.  
