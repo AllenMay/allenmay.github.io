@@ -80,6 +80,17 @@
           </li>
           {% endif %}
 
+          {% if site.codesandbox_username %}
+          <li>
+            <a href="https://codesandbox.io/u/{{ site.codesandbox_username }}" title="Allen May on CodeSandbox">
+              <span class="icon  icon--codesandbox">
+                <img src="/images/CodeSandbox.svg" class="icon" alt="CodeSandbox Logo">
+              </span>
+
+              <span class="username">{{ site.codesandbox_username }}</span>
+            </a>
+          </li>
+          {% endif %}
 
         </ul>
       </div>

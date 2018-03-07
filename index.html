@@ -15,7 +15,7 @@ layout: default
         {% assign oldclass = "class='oldpost'" %}
       {% endif %}
     <li {{oldclass}}>
-        <span class="post-meta">{{ post.date | date: "%B %-d, %Y" }} |  Posttype: {{ post.categories }}</span>
+        <span class="post-meta">{{ post.date | date: "%B %-d, %Y" }} |  Post Type: {{ post.categories }}</span>
 
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
