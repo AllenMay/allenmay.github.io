@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Settting up AUTH in Laravel 5.6
+title: Setting up AUTH in Laravel 5.6
 categories: [post]
 tags: [laravel]
 published: True
