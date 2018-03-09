@@ -1,0 +1,87 @@
+.post-icon {
+    margin: 0 20%;
+  }
+  
+  .parened {
+    color: grey;
+  }
+  
+  rect {
+    transform-origin: 50% 0%;
+  }
+  
+  body {
+    font-family: "Vollkorn", serif, Helvetica, Arial, sans-serif;
+  }
+  
+  .site-header .wrapper {
+    display: flex;
+    justify-content: space-between;
+  }
+  .site-header .wrapper div:first-child a {
+    display: flex;
+    align-items: center;
+  }
+  .site-header .wrapper div:last-child nav {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    justify-content: space-around;
+  }
+  .site-header .wrapper div {
+    width: 50%;
+  }
+  
+  .page-content .wrapper {
+    display: flex;
+  }
+  
+  .external .post-list {
+    background: rgba(0, 0, 0, 0.2);
+  }
+  
+  .post-meta {
+    color: rgba(0, 0, 0, 0.2);
+  }
+  
+  .post-list {
+    list-style: none;
+  }
+  .post-list h2 {
+    margin: 0;
+  }
+  
+  .oldpost {
+    background: rgba(0, 0, 0, 0.2);
+  }
+  .oldpost span:first-of-type:before {
+    color: rgba(0, 0, 0, 0.2);
+    content: "Archive";
+    background: rgba(255, 255, 255, 0.5);
+    width: 20%;
+    margin: 5px 10px;
+    padding: 0 2%;
+  }
+  
+  .site-footer {
+    background: rgba(0, 0, 0, 0.2);
+  }
+  
+  .footer-col-wrapper {
+    display: flex;
+  }
+  .footer-col-wrapper div {
+    background: rgba(255, 255, 255, 0.5);
+    padding: 2%;
+    margin: 2%;
+    width: calc(100%/3);
+  }
+  .footer-col-wrapper div:last-child {
+    flex-grow: 2;
+  }
+  
+  .icon {
+    width: 16px;
+    height: 16px;
+  }
+  
