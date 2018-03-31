@@ -1,0 +1,42 @@
+{
+  "autoplayTransitionDelay" : 5,
+  "author" : "",
+  "timestamp" : "2018-28-31 13:3:2",
+  "loopSlideshow" : 0,
+  "filename" : "XDDebug - SDS Presentation.key",
+  "autoplayBuildDelay" : 2,
+  "comment" : "",
+  "title" : "XDDebug - SDS Presentation.key",
+  "showMode" : 0,
+  "creator" : "Apple Keynote 8.0",
+  "slideList" : [
+    "15FCF50E-0340-40DE-A61B-20894471A488",
+    "5E855E75-0E56-4DC6-8709-A34257BC88FA",
+    "633DA0D2-543E-457A-ACCA-23DC0A01D08F",
+    "1107116F-CE18-495E-A5DF-BCCFBE033A9F",
+    "59EB5FD7-0A9A-4B8F-A1AE-E55C57502061",
+    "8CB3F4FB-DF28-4D12-826A-46CB1A6D4AFB",
+    "BFF513CB-28C5-4F19-8035-5C6B33A58BC7",
+    "2789F1CE-A389-427D-9C80-329D3F0A79A0",
+    "1DEC0ADA-9266-45B7-9545-8C06A0F3789A"
+  ],
+  "soundtrack" : {
+    "mode" : 0,
+    "volume" : 1
+  },
+  "slideWidth" : 1920,
+  "slideHeight" : 1080,
+  "slideCount" : 9,
+  "majorVersion" : 1,
+  "minorVersion" : 2,
+  "fonts" : [
+    "Courier",
+    "HelveticaNeue-Light",
+    "HelveticaNeue-Bold",
+    "HelveticaNeue",
+    "Verdana",
+    "Helvetica",
+    "HelveticaNeue-Italic",
+    "Helvetica-Light"
+  ]
+}
