@@ -4,7 +4,7 @@ title:  "The Best Intentions"
 date:   2014-10-27 16:49:29
 categories: blog
 ---
-##I Really Mean To... Really!##
+__I Really Mean To... Really!__
 
 Ok, I've got Jekyll figured out. I'm GIT'ing and SASS'ing.. I should be cranking out post after post but reality is [not].
 

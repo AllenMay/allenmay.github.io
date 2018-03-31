@@ -7,9 +7,9 @@ published: True
 
 ---
 
-This morning I walked through an insightful video tutorial from **Tuts+** called \"[Full Stack ES6 with Babel] [tut]\". In this 9 minute video [Jason Green] [jason] not only demonstrates how to install and configure the **Node.js** modules he tells you some background on the modules and why you need them.  
+This morning I walked through an insightful video tutorial from __Tuts+__ called \"[Full Stack ES6 with Babel] [tut]\". In this 9 minute video [Jason Green] [jason] not only demonstrates how to install and configure the __Node.js__ modules he tells you some background on the modules and why you need them.  
 
-After about 15 minutes of twiddling I had a fully automated **Gulp** \"skeleton\" build with **Babel** integrated to allow me to use **ES6** code in my project.  
+After about 15 minutes of twiddling I had a fully automated __Gulp__ \"skeleton\" build with __Babel__ integrated to allow me to use __ES6__ code in my project.  
 
 Very cool and great foundation. Thanks Jason!
 

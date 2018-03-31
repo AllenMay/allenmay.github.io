@@ -6,7 +6,7 @@ tags: []
 published: True
 
 ---
-##Exploring Laravel's vendor library shows an extensive library that comes with Laravel 5.  
+## Exploring Laravel's vendor library shows an extensive library that comes with Laravel 5.  
 
 I've started exploring the world of Laravel and decided to create a reference to all the vendor libraries that come with Laravel 5. I've added links to their respective websites for easy access to more information.  
 

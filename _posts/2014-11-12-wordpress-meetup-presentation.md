@@ -11,9 +11,9 @@ Originally I planned to be one of several "lightning round" presenters, presenti
 
 When giving presentations, I always want to have an interesting message or provide information of value. I had only been to this meetup once before, so I was not sure of the audience. I made some assumptions of what might be a good topic, based on what I would find of interest.
 
-##A Surprise Guest##
+__A Surprise Guest__
 I purposely added slides at the beginning of my presentation to promote the other meetups I'm involved with (Clean Coders, GemCityJS, Dayton Web Developers and GiveCamp).  
-When I mentioned how GiveCamp is a great resource to plug-into because it's heavy with WordPress needs, **Rachel Barnett** (who was sitting on my far left) spoke up and said she can testify to the value of GiveCamp. She came in late so I didn't see her come in.
+When I mentioned how GiveCamp is a great resource to plug-into because it's heavy with WordPress needs, __Rachel Barnett__ (who was sitting on my far left) spoke up and said she can testify to the value of GiveCamp. She came in late so I didn't see her come in.
 
 Rachel Barnett is from the Dayton Ombudsman Association - the non-profit project that I was on during GiveCamp 2014. Rachel hung out with our project team at GiveCamp as we worked on their WordPress/database project.
 

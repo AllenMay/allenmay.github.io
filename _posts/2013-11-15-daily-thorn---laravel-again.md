@@ -10,7 +10,7 @@ published: True
 So, I started the day thinking I would explore how I would use Laravel to authenticate with LDAP but things soon came unraveled.
 
  
-**Yes**, there are LDAP Auth modules available through GitHub but which one should I use. I wanna go with a stable/secure solution for authenticating. 
+__Yes__, there are LDAP Auth modules available through GitHub but which one should I use. I wanna go with a stable/secure solution for authenticating. 
 I decided to try the Laravel IRC channel and ask for a recommendation. One of the authors referred me to their app - __ccovey/leap-auth__.
  
 I explained to __ccovey__ that I would be running this behind our firewall and he said it wouldn't work without a Composer update. Ugh!

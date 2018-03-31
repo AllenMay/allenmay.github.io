@@ -6,11 +6,11 @@ date:   2014-09-18 16:49:29
 tags: [git, nodejs, proxy]
 published: True
 ---
-##After a long time trying I think I've finally got my HTTPS_PROXY settings set correctly. I can now use NPM and GIT!##
+__After a long time trying I think I've finally got my HTTPS_PROXY settings set correctly. I can now use NPM and GIT!__
 
-**GIT:** I have been trying to use GIT inside the corporate firewall for some time. Unfortunately it's blocked by the proxy server.
+__GIT:__ I have been trying to use GIT inside the corporate firewall for some time. Unfortunately it's blocked by the proxy server.
 
-**NPM:** The same problem affects NODE.JS ... I can't NPM anything because it's blocked.
+__NPM:__ The same problem affects NODE.JS ... I can't NPM anything because it's blocked.
 
 This has prevented me from doing any modern web development at work!
 
