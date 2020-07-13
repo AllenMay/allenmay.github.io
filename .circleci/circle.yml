@@ -1,4 +1,0 @@
-test:
-  override:
-    - echo "No tests are needed"
-    
